@@ -2,15 +2,21 @@
 # -*- coding: utf-8 -*-
 """
 微博热搜数据获取器
+使用天行数据API
 """
+
+import warnings
+# 禁用urllib3的SSL警告（必须在导入requests之前）
+warnings.filterwarnings('ignore', message='urllib3 v2 only supports OpenSSL 1.1.1+')
 
 import requests
 import json
 import sys
+import re
 from datetime import datetime
 
-# 微博热搜API
-WEIBO_HOT_URL = "https://weibo.com/ajax/side/hotSearch"
+# 天行数据微博热搜API
+WEIBO_HOT_URL = "https://apis.tianapi.com/weibohot/index?key=c96a7333c975965e491ff49466a1844b"
 
 
 def fetch_weibo_hotspot():
@@ -18,34 +24,18 @@ def fetch_weibo_hotspot():
     print("正在获取微博热搜数据...")
 
     try:
-        # 设置请求头模拟浏览器
-        headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://weibo.com/",
-            "Accept": "application/json, text/plain, */*",
-            "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
-            "X-Requested-With": "XMLHttpRequest"
-        }
-
-        # 创建会话
-        session = requests.Session()
-        session.headers.update(headers)
-
-        # 先访问主页获取cookies
-        session.get("https://weibo.com", timeout=15)
-
-        # 再获取热搜数据
-        response = session.get(WEIBO_HOT_URL, timeout=15)
+        # 获取热搜数据
+        response = requests.get(WEIBO_HOT_URL, timeout=15)
         response.raise_for_status()
 
         data = response.json()
 
-        if 'data' in data and 'realtime' in data['data']:
-            hotspots = data['data']['realtime']
+        if data.get('code') == 200 and 'result' in data:
+            hotspots = data['result']['list']
             print(f"✅ 成功获取 {len(hotspots)} 条热搜数据")
             return hotspots
         else:
-            print(f"❌ 数据结构异常: {data.keys() if isinstance(data, dict) else '非JSON响应'}")
+            print(f"❌ 数据结构异常: {data}")
             return []
 
     except requests.RequestException as e:
@@ -66,9 +56,21 @@ def generate_search_queries(hotspots, max_items=15):
     queries = []
     for i, item in enumerate(hotspots[:max_items]):
         # 获取热搜标题
-        title = item.get('note', '') or item.get('word', '')
+        title = item.get('hotword', '')
         if not title:
             continue
+
+        # 获取热度（转换为数字，提取数字部分）
+        heat_str = item.get('hotwordnum', '').strip()
+        try:
+            # 使用正则提取数字
+            numbers = re.findall(r'\d+', heat_str)
+            heat = int(numbers[0]) if numbers else 0
+        except (ValueError, IndexError):
+            heat = 0
+
+        # 获取标签
+        tag = item.get('hottag', '').strip()
 
         # 生成搜索查询
         current_month = datetime.now().strftime('%Y年%m月')
@@ -77,9 +79,9 @@ def generate_search_queries(hotspots, max_items=15):
         query_info = {
             'rank': i + 1,
             'title': title,
-            'heat': item.get('num', 'N/A'),
-            'category': item.get('category', ''),
-            'label_name': item.get('label_name', ''),
+            'heat': heat,
+            'category': tag,
+            'label_name': tag,
             'search_query': search_query,
             'raw_data': item
         }
