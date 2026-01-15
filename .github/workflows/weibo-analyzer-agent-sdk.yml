@@ -154,7 +154,14 @@ jobs:
     - name: 📥 Checkout 代码
       uses: actions/checkout@v4
       with:
-        ref: main  # 确保获取最新提交
+        ref: main
+        fetch-depth: 0  # 获取完整历史
+
+    - name: 🔄 拉取最新提交
+      run: |
+        git pull origin main
+        echo "✅ 已拉取最新提交"
+        ls -la output/ || echo "⚠️ output 目录不存在"
 
     - name: 🌐 配置 GitHub Pages
       uses: actions/configure-pages@v4
