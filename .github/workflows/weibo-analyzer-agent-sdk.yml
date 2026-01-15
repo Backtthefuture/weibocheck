@@ -1,0 +1,166 @@
+name: 微博热搜分析 (Claude Agent SDK)
+
+on:
+  schedule:
+    # 每天早上9点和晚上9点执行（北京时间 = UTC+8）
+    # UTC 1:00 = 北京时间 9:00
+    # UTC 13:00 = 北京时间 21:00
+    - cron: '0 1,13 * * *'
+
+  workflow_dispatch:  # 支持手动触发
+    inputs:
+      max_topics:
+        description: '分析的热搜数量'
+        required: false
+        default: '15'
+        type: string
+
+jobs:
+  analyze-weibo-hotspots:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60  # 设置超时时间为60分钟
+
+    steps:
+    - name: 📥 Checkout 代码
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0  # 获取完整历史，用于提交
+
+    - name: 🐍 设置 Python 环境
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        cache: 'pip'  # 缓存 pip 依赖
+
+    - name: 📦 安装 Python 依赖
+      run: |
+        pip install --upgrade pip
+        pip install requests anthropic
+
+    - name: 🤖 安装 Claude Agent SDK
+      run: |
+        # 方式1: 如果 SDK 已发布到 PyPI
+        # pip install claude-agent-sdk
+
+        # 方式2: 从 GitHub 安装（推荐）
+        pip install git+https://github.com/anthropics/anthropic-sdk-python.git
+
+        # 验证安装
+        python -c "import anthropic; print(f'Anthropic SDK version: {anthropic.__version__}')"
+
+    - name: 🔍 执行微博热搜分析
+      env:
+        ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        ANTHROPIC_BASE_URL: ${{ secrets.ANTHROPIC_BASE_URL }}
+        ANTHROPIC_MODEL: ${{ secrets.ANTHROPIC_MODEL }}
+        TIANAPI_KEY: ${{ secrets.TIANAPI_KEY }}
+        MAX_TOPICS: ${{ github.event.inputs.max_topics || '15' }}
+      run: |
+        echo "🚀 开始执行微博热搜分析..."
+        echo "📊 分析话题数量: $MAX_TOPICS"
+        python run_agent_sdk_analyzer.py
+
+    - name: 📊 生成分析报告
+      if: success()
+      run: |
+        echo "📝 生成 HTML 报告..."
+        python generate_enhanced_report.py
+
+    - name: 📁 创建报告归档
+      if: success()
+      run: |
+        # 创建带时间戳的归档目录
+        ARCHIVE_DIR="archives/$(date +'%Y/%m')"
+        mkdir -p "$ARCHIVE_DIR"
+
+        # 复制最新报告到归档
+        cp output/weibo_hotspot_analysis_enhanced_*.html "$ARCHIVE_DIR/" || true
+
+        # 只保留最近30天的归档
+        find archives/ -name "*.html" -mtime +30 -delete || true
+
+    - name: 💾 提交报告到仓库
+      if: success()
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "GitHub Actions Bot"
+
+        # 添加所有变更
+        git add output/*.html
+        git add archives/
+        git add *.json
+
+        # 提交（如果有变更）
+        if git diff --staged --quiet; then
+          echo "📭 没有新的变更需要提交"
+        else
+          git commit -m "🤖 自动生成分析报告 - $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
+          echo "✅ 报告已提交到仓库"
+        fi
+
+    - name: 📤 上传报告为 Artifact
+      if: always()  # 即使失败也上传，便于调试
+      uses: actions/upload-artifact@v4
+      with:
+        name: weibo-analysis-report-${{ github.run_number }}
+        path: |
+          output/*.html
+          *.json
+        retention-days: 30
+
+    - name: 📈 生成执行摘要
+      if: always()
+      run: |
+        echo "## 📊 执行摘要" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+
+        if [ -f "hotspot_analysis_results.json" ]; then
+          TOTAL=$(jq 'length' hotspot_analysis_results.json)
+          HIGH_SCORE=$(jq '[.[] | select(.total_score >= 80)] | length' hotspot_analysis_results.json)
+          AVG_SCORE=$(jq '[.[].total_score] | add / length' hotspot_analysis_results.json)
+
+          echo "- ✅ 分析话题数: $TOTAL" >> $GITHUB_STEP_SUMMARY
+          echo "- 🔥 高分话题数 (≥80分): $HIGH_SCORE" >> $GITHUB_STEP_SUMMARY
+          echo "- 📊 平均评分: $(printf '%.1f' $AVG_SCORE)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 🏆 Top 5 热搜" >> $GITHUB_STEP_SUMMARY
+          jq -r '.[:5] | .[] | "- **\(.title)** (评分: \(.total_score))"' hotspot_analysis_results.json >> $GITHUB_STEP_SUMMARY
+        else
+          echo "⚠️ 未找到分析结果文件" >> $GITHUB_STEP_SUMMARY
+        fi
+
+    - name: 🚨 失败通知
+      if: failure()
+      run: |
+        echo "❌ 分析任务失败！" >> $GITHUB_STEP_SUMMARY
+        echo "请检查日志以获取详细错误信息。" >> $GITHUB_STEP_SUMMARY
+
+  # 可选：部署到 GitHub Pages
+  deploy-to-pages:
+    needs: analyze-weibo-hotspots
+    if: success()
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+
+    steps:
+    - name: 📥 Checkout 代码
+      uses: actions/checkout@v4
+      with:
+        ref: main  # 确保获取最新提交
+
+    - name: 🌐 配置 GitHub Pages
+      uses: actions/configure-pages@v4
+
+    - name: 📤 上传到 Pages
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: './output'
+
+    - name: 🚀 部署到 GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
