@@ -67,6 +67,15 @@ jobs:
         echo "📝 生成 HTML 报告..."
         python generate_enhanced_report.py
 
+        # 创建 index.html 作为 GitHub Pages 入口
+        LATEST_HTML=$(ls -t output/weibo_hotspot_analysis_enhanced_*.html | head -1)
+        if [ -f "$LATEST_HTML" ]; then
+          cp "$LATEST_HTML" output/index.html
+          echo "✅ 已创建 index.html: $LATEST_HTML"
+        else
+          echo "⚠️ 未找到 HTML 报告文件"
+        fi
+
     - name: 📁 创建报告归档
       if: success()
       run: |
