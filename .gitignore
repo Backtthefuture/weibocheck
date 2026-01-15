@@ -1,11 +1,11 @@
-# 输出目录
-output/
+# 输出目录 - 保留 output 目录但忽略其中的 HTML 文件（本地测试用）
+# output/
 
-# 分析结果文件
-hotspot_analysis_results.json
-weibo_search_queries.json
-all_analysis_results.json
-analysis_results.json
+# 分析结果文件 - 这些文件需要提交到仓库供 GitHub Actions 使用
+# hotspot_analysis_results.json
+# weibo_search_queries.json
+# all_analysis_results.json
+# analysis_results.json
 *.backup
 
 # Python缓存
