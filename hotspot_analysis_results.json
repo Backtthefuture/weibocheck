@@ -1,182 +1,123 @@
 [
   {
     "rank": 1,
-    "title": "携程",
-    "heat": 1091612,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
+    "title": "刘翔回应移民美国",
+    "heat": 1160074,
+    "fun_score": 25,
+    "useful_score": 8,
+    "total_score": 33,
+    "summary": "前奥运冠军刘翔回应关于移民美国的传闻。此类话题涉及公众人物澄清不实信息，具有一定关注度但缺乏产品创新空间，主要为舆论事件。",
     "has_idea": false,
-    "product": null,
-    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 20260116105554217931027ph1SATua)', 'type': 'new_api_error'}, 'id': 'gen-1768532154-yCwkTdjUT0FL70xyyQjfyt'}"
+    "reason": "总分33分未达标准。该话题属于人物澄清类舆论事件，缺乏产品化空间：1）有趣度低（25分）：话题本质是辟谣，缺乏创意性和互动性，主要依赖名人效应而非内容创新；2）有用度低（8分）：仅满足信息获取需求，无实际问题解决场景；3）产品方向模糊：难以延伸出有独特价值的产品功能，若做成辟谣工具过于垂直，受众有限；4）话题时效性强但持续性差，不适合作为产品基础。建议关注具有更强互动性、实用性或能创造新体验的话题。"
   },
   {
     "rank": 2,
-    "title": "将门毒后",
-    "heat": 786055,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 202601161055552161400621stxHCeP)', 'type': 'new_api_error'}, 'id': 'gen-1768532155-L9GtLJoJSpd99HjZlE6ydj'}"
+    "title": "坐高铁可以不用自己扛行李了",
+    "heat": 854284,
+    "fun_score": 52,
+    "useful_score": 18,
+    "total_score": 70,
+    "summary": "高铁推出行李托运或搬运服务，乘客无需自己携带沉重行李上下车，通过预约即可享受专人配送服务。这一便民措施引发网友热议，体现出出行服务的智能化升级趋势。",
+    "has_idea": true,
+    "product": {
+      "name": "轻装行",
+      "features": [
+        "一键预约高铁站行李搬运服务",
+        "实时追踪行李位置与状态",
+        "跨站点行李直送酒店/家",
+        "特殊物品（婴儿车、乐器）专项服务",
+        "行李打包与保险增值服务",
+        "积分会员体系与优惠套餐"
+      ],
+      "target_users": [
+        "携带大件行李的商务出差人士",
+        "带娃出行的家庭旅客",
+        "老年人及行动不便群体",
+        "乐器/运动器材携带者"
+      ],
+      "description": "高铁出行行李全流程管理平台，提供站内搬运、跨站配送、打包保险等一站式服务，让旅客真正实现轻装出行。"
+    }
   },
   {
     "rank": 3,
-    "title": "中国外贸成就很不平凡",
-    "heat": 639307,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 20260116105555770949864s3ewF96Q)', 'type': 'new_api_error'}, 'id': 'gen-1768532155-wZE97eLvFBUpamCg3nD6Fq'}"
+    "title": "中国天眼又立功了",
+    "heat": 661874,
+    "fun_score": 58,
+    "useful_score": 16,
+    "total_score": 74,
+    "summary": "中国天眼（FAST射电望远镜）在天文观测领域取得新成果，可能发现新脉冲星、快速射电暴等天文现象，展现中国科技实力，引发公众对宇宙探索的关注和民族自豪感。",
+    "has_idea": true,
+    "product": {
+      "name": "天眼探索者",
+      "features": [
+        "实时展示中国天眼观测数据可视化",
+        "AR互动体验模拟射电望远镜工作原理",
+        "科普闯关游戏学习天文知识",
+        "用户可认领星体并追踪观测进展",
+        "社区分享天文发现和观测心得"
+      ],
+      "target_users": [
+        "天文爱好者",
+        "中小学生及家长",
+        "科技科普用户",
+        "爱国情怀群体"
+      ],
+      "description": "将天眼成果转化为互动科普产品，让用户沉浸式体验宇宙探索，寓教于乐传播天文知识。"
+    }
   },
   {
     "rank": 4,
-    "title": "女教师群聊八卦被拘起诉公安被驳回",
-    "heat": 476582,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 20260116105556333692239T0chhP77)', 'type': 'new_api_error'}, 'id': 'gen-1768532156-RBXjlRKOv1pb6k1XkbZJ5a'}"
+    "title": "辅警保住100多万哭出了声",
+    "heat": 458298,
+    "fun_score": 45,
+    "useful_score": 15,
+    "total_score": 60,
+    "summary": "一名辅警在工作中成功帮助群众挽回100多万元损失，因压力释放和成就感激动落泪。这个暖心故事展现基层民警的责任担当，引发网友共鸣和点赞。",
+    "has_idea": true,
+    "product": {
+      "name": "守护钱包",
+      "features": [
+        "AI反诈骗实时预警系统",
+        "大额转账冷静期提醒",
+        "诈骗案例库智能匹配",
+        "一键报警与资金冻结申请",
+        "家人联动保护机制"
+      ],
+      "target_users": [
+        "中老年易受骗人群",
+        "大额资金持有者",
+        "关心父母的子女用户",
+        "小微企业主"
+      ],
+      "description": "基于真实反诈场景的智能金融安全助手，通过AI识别诈骗行为，为用户资金安全提供多重防护。"
+    },
+    "reason": ""
   },
   {
     "rank": 5,
-    "title": "玉茗茶骨",
-    "heat": 440602,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 20260116105556920307226gyNO789f)', 'type': 'new_api_error'}, 'id': 'gen-1768532156-1UHTHY103Ac1lcolhyK5ir'}"
-  },
-  {
-    "rank": 6,
-    "title": "马查多把诺贝尔和平奖颁给特朗普",
-    "heat": 412446,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 202601161055574730014405HkL56Qv)', 'type': 'new_api_error'}, 'id': 'gen-1768532157-oGZUTONSl4kwBwn1jo95RM'}"
-  },
-  {
-    "rank": 7,
-    "title": "李冰冰NAERSI品牌代言人",
-    "heat": 0,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 2026011610555827635015U23HLWhP)', 'type': 'new_api_error'}, 'id': 'gen-1768532158-BEW0FRo45794PmwU3pkzZi'}"
-  },
-  {
-    "rank": 8,
-    "title": "女子药流后腹部隆起才发现胎儿未排",
-    "heat": 371111,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 20260116105558579124324L2SoOxEq)', 'type': 'new_api_error'}, 'id': 'gen-1768532158-A1vLLdXRdyDq3cRaukIRMQ'}"
-  },
-  {
-    "rank": 9,
-    "title": "美甲已经进化成这样了吗",
-    "heat": 254235,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 20260116105559130181734r0s2xcuD)', 'type': 'new_api_error'}, 'id': 'gen-1768532159-YahNVhSxaZARli8y0MauQd'}"
-  },
-  {
-    "rank": 10,
-    "title": "当你用父母的方式对待父母",
-    "heat": 205601,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 20260116105559682182001TOF0yI8Z)', 'type': 'new_api_error'}, 'id': 'gen-1768532159-7EDS90AVbYhtISRZxFRUkj'}"
-  },
-  {
-    "rank": 11,
-    "title": "大学生偷外卖被拘通报公示外卖架边",
-    "heat": 203797,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 20260116105600234167270a9OZIegt)', 'type': 'new_api_error'}, 'id': 'gen-1768532160-HsLXGSuCDDfziM6ckTcw9C'}"
-  },
-  {
-    "rank": 12,
-    "title": "被逼婚喝农药女子已清醒",
-    "heat": 200231,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 20260116105600787659771ocCyTG7y)', 'type': 'new_api_error'}, 'id': 'gen-1768532160-CZg9Ktti0v3hnqaxpbVWoA'}"
-  },
-  {
-    "rank": 13,
-    "title": "左航换手机",
-    "heat": 197546,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 20260116105601339880833Dmw1eSZt)', 'type': 'new_api_error'}, 'id': 'gen-1768532161-24rMv14Y9t5ydRP12467I8'}"
-  },
-  {
-    "rank": 14,
-    "title": "张艺凡肘击丁程鑫",
-    "heat": 196620,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 20260116105601893284168K7F0BZTd)', 'type': 'new_api_error'}, 'id': 'gen-1768532161-mxBXmyWuXT05WCuuwQE9lX'}"
-  },
-  {
-    "rank": 15,
-    "title": "只要西贝在还跟华与华合作",
-    "heat": 192737,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 20260116105602506545549N2afMcYS)', 'type': 'new_api_error'}, 'id': 'gen-1768532162-IVHIih2wvMacaeJnF9PGzo'}"
+    "title": "胖东来599元羽绒服进价457.9元",
+    "heat": 375083,
+    "fun_score": 52,
+    "useful_score": 16,
+    "total_score": 68,
+    "summary": "胖东来公开599元羽绒服进价457.9元，毛利率仅23.6%，引发热议。其透明定价模式与传统零售业高利润率形成鲜明对比，展现良心经营理念，获网友广泛赞誉。",
+    "has_idea": true,
+    "product": {
+      "name": "透明账本",
+      "features": [
+        "商品进价与利润率实时展示",
+        "多商家价格对比与透明度评级",
+        "用户评价与性价比排行",
+        "消费账单智能分析",
+        "良心商家地图与推荐"
+      ],
+      "target_users": [
+        "注重性价比的理性消费者",
+        "追求消费透明度的年轻用户",
+        "希望了解商品真实成本的购物者",
+        "支持良心企业的价值消费群体"
+      ],
+      "description": "让每一笔消费都明明白白，帮助用户发现真正良心的商家，打造透明消费新生态。"
+    }
   }
 ]
