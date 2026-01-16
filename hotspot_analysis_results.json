@@ -1,297 +1,182 @@
 [
   {
     "rank": 1,
-    "title": "将门毒后",
-    "heat": 1216905,
-    "fun_score": 58,
-    "useful_score": 8,
-    "total_score": 66,
-    "summary": "《将门毒后》是古代言情题材作品，讲述将门嫡女重生复仇的故事。该话题可能因相关影视化、网文IP或演员阵容曝光而登上热搜，引发古言爱好者和女性向内容受众的广泛讨论。",
-    "has_idea": true,
-    "product": {
-      "name": "重生剧本生成器",
-      "features": [
-        "AI生成个性化古言重生复仇剧本",
-        "角色关系图谱可视化工具",
-        "多结局互动式阅读体验",
-        "用户共创剧情投票系统",
-        "配音配乐沉浸式播放"
-      ],
-      "target_users": [
-        "古言小说爱好者",
-        "18-35岁女性用户",
-        "网文创作者",
-        "影视剧粉丝群体"
-      ],
-      "description": "基于热门古言IP的AI剧本创作平台，用户输入设定即可生成专属重生复仇故事，支持互动阅读和社区共创。"
-    }
+    "title": "携程",
+    "heat": 1091612,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 20260116105554217931027ph1SATua)', 'type': 'new_api_error'}, 'id': 'gen-1768532154-yCwkTdjUT0FL70xyyQjfyt'}"
   },
   {
     "rank": 2,
-    "title": "空气炸锅杀回年轻人的厨房",
-    "heat": 847861,
-    "fun_score": 58,
-    "useful_score": 16,
-    "total_score": 74,
-    "summary": "空气炸锅凭借操作简单、少油健康的特点，在年轻群体中重新流行。话题可能涉及创意食谱分享、使用技巧、健康饮食理念等内容，反映年轻人追求便捷又健康的生活方式。",
-    "has_idea": true,
-    "product": {
-      "name": "炸锅食验室",
-      "features": [
-        "AI食谱生成：根据食材自动匹配空气炸锅菜谱",
-        "智能温控提醒：连接设备实时监控烹饪进度",
-        "创意菜谱社区：用户分享翻车/成功案例",
-        "食材卡路里计算：自动生成营养报告",
-        "菜谱盲盒挑战：随机推送创意组合激发尝试欲"
-      ],
-      "target_users": [
-        "18-35岁年轻上班族",
-        "厨艺小白",
-        "注重健康饮食的独居青年",
-        "喜欢尝试新鲜事物的美食爱好者"
-      ],
-      "description": "让空气炸锅从厨房工具变成社交话题，通过AI推荐和社区互动，降低烹饪门槛，提升趣味性。"
-    }
+    "title": "将门毒后",
+    "heat": 786055,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 202601161055552161400621stxHCeP)', 'type': 'new_api_error'}, 'id': 'gen-1768532155-L9GtLJoJSpd99HjZlE6ydj'}"
   },
   {
     "rank": 3,
     "title": "中国外贸成就很不平凡",
-    "heat": 708664,
-    "fun_score": 32,
-    "useful_score": 14,
-    "total_score": 46,
-    "summary": "该话题聚焦中国外贸成就，属于宏观经济政策类话题。虽有一定社会关注度，但偏严肃、正式，缺乏娱乐性和互动性，话题本身较为常规，不具备新颖性和传播爆点。",
+    "heat": 639307,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
     "has_idea": false,
-    "reason": "总分46分未达标。话题过于宏观严肃，缺乏趣味性和创意空间（有趣度仅32分）。外贸成就属于政策宣传类内容，难以转化为吸引普通用户的互动产品。虽有一定教育价值，但实用性局限于特定人群（外贸从业者、经济研究者），无法形成广泛的用户参与场景。此类话题更适合资讯传播而非产品创意开发。"
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 20260116105555770949864s3ewF96Q)', 'type': 'new_api_error'}, 'id': 'gen-1768532155-wZE97eLvFBUpamCg3nD6Fq'}"
   },
   {
     "rank": 4,
-    "title": "八个娃娃的第一次独立冒险",
-    "heat": 0,
-    "fun_score": 62,
-    "useful_score": 14,
-    "total_score": 76,
-    "summary": "话题疑似与儿童成长、独立教育或动画/IP内容相关。'八个娃娃'可能指代多胞胎、玩具角色或虚拟形象，'第一次独立冒险'暗示成长里程碑事件，具有故事性和情感共鸣潜力。",
-    "has_idea": true,
-    "product": {
-      "name": "娃娃独立成长记",
-      "features": [
-        "儿童独立能力培养任务系统",
-        "家长记录孩子第一次体验的电子成长相册",
-        "趣味冒险故事引导独立行为",
-        "多娃家庭协作挑战模式",
-        "成长里程碑打卡与社区分享"
-      ],
-      "target_users": [
-        "3-10岁儿童家长",
-        "多子女家庭",
-        "关注儿童独立教育的年轻父母",
-        "早教机构"
-      ],
-      "description": "通过游戏化任务和故事引导，帮助家长记录和培养孩子独立能力，让每个'第一次'都成为值得珍藏的冒险。"
-    }
+    "title": "女教师群聊八卦被拘起诉公安被驳回",
+    "heat": 476582,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 20260116105556333692239T0chhP77)', 'type': 'new_api_error'}, 'id': 'gen-1768532156-RBXjlRKOv1pb6k1XkbZJ5a'}"
   },
   {
     "rank": 5,
-    "title": "骄阳似我心有林曦callback",
-    "heat": 309594,
-    "fun_score": 25,
-    "useful_score": 5,
-    "total_score": 30,
-    "summary": "电视剧《骄阳似我》相关话题，涉及剧中角色林曦的callback情节。属于影视剧热点讨论，粉丝向内容，但缺乏足够的话题延展性和创新点。",
+    "title": "玉茗茶骨",
+    "heat": 440602,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
     "has_idea": false,
-    "reason": "总分30分未达到60分阈值。该话题属于典型的影视剧追剧讨论，虽然在特定粉丝群体中有一定热度，但缺乏足够的新颖性、创意性和广泛传播性。话题过于垂直且时效性强，仅限于剧集播出期间的讨论热度，难以转化为持续性的产品创意。实用价值方面，仅满足娱乐需求，无法解决实际问题或提供长期价值。作为影视剧衍生话题，更适合内容运营而非独立产品开发。"
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 20260116105556920307226gyNO789f)', 'type': 'new_api_error'}, 'id': 'gen-1768532156-1UHTHY103Ac1lcolhyK5ir'}"
   },
   {
     "rank": 6,
-    "title": "被清华大学食堂的物价震惊到了",
-    "heat": 193200,
-    "fun_score": 58,
-    "useful_score": 16,
-    "total_score": 74,
-    "summary": "清华食堂的低价引发热议，网友被其平价物价震惊，形成'别人家食堂'话题效应，引发高校食堂价格对比讨论，体现优质教育资源配套优势，激发公众对高校后勤保障的关注。",
-    "has_idea": true,
-    "product": {
-      "name": "校园食堂价格地图",
-      "features": [
-        "全国高校食堂菜品价格数据库",
-        "用户实时上传菜品价格和图片",
-        "同菜品跨校价格对比",
-        "性价比排行榜",
-        "食堂美食推荐算法",
-        "学生优惠信息聚合"
-      ],
-      "target_users": [
-        "在校大学生",
-        "准大学生及家长",
-        "高校后勤管理部门",
-        "美食探店爱好者"
-      ],
-      "description": "众包式高校食堂价格对比平台，帮助学生发现性价比美食，促进校际食堂透明化竞争，为择校提供生活成本参考。"
-    }
+    "title": "马查多把诺贝尔和平奖颁给特朗普",
+    "heat": 412446,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 202601161055574730014405HkL56Qv)', 'type': 'new_api_error'}, 'id': 'gen-1768532157-oGZUTONSl4kwBwn1jo95RM'}"
   },
   {
     "rank": 7,
-    "title": "金价",
-    "heat": 188895,
-    "fun_score": 45,
-    "useful_score": 18,
-    "total_score": 63,
-    "summary": "金价话题登上热搜，通常与金价大幅波动、投资热潮或经济形势相关。黄金作为避险资产和投资标的，其价格变动牵动着投资者、消费者的神经，引发广泛关注和讨论。",
-    "has_idea": true,
-    "product": {
-      "name": "金价播报机",
-      "features": [
-        "实时金价语音播报",
-        "价格异动智能提醒",
-        "历史价格走势可视化",
-        "黄金投资知识科普",
-        "趣味金价预测互动游戏",
-        "社区讨论和投资心得分享"
-      ],
-      "target_users": [
-        "黄金投资者",
-        "关注理财的年轻人",
-        "珠宝消费者",
-        "财经爱好者"
-      ],
-      "description": "集实时金价监控、投资提醒、知识科普于一体的轻量化工具，用游戏化方式降低理财门槛。"
-    }
+    "title": "李冰冰NAERSI品牌代言人",
+    "heat": 0,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 2026011610555827635015U23HLWhP)', 'type': 'new_api_error'}, 'id': 'gen-1768532158-BEW0FRo45794PmwU3pkzZi'}"
   },
   {
     "rank": 8,
-    "title": "千问APP全面接入阿里生态",
-    "heat": 0,
-    "fun_score": 35,
-    "useful_score": 15,
-    "total_score": 50,
-    "summary": "阿里旗下AI助手千问APP深度整合淘宝、钉钉、高德等阿里系应用，打通账号体系和数据服务，试图构建AI+生态的全场景智能助手，但作为B端战略动作，缺乏C端传播爆点。",
+    "title": "女子药流后腹部隆起才发现胎儿未排",
+    "heat": 371111,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
     "has_idea": false,
-    "reason": "总分50分未达标准。虽然该事件具有一定行业价值（企业级AI生态整合），但从产品创意角度存在三大不足：1）**新颖性不足**（35/80）-AI接入生态是行业常规操作，微软Copilot、百度文心已有类似布局，缺乏独特性和话题爆点；2）**娱乐性缺失**-纯技术整合新闻，无趣味梗点或社交传播元素；3）**用户感知弱**（15/20）-虽有实用价值但普通用户难以直观感受差异化体验。此类B端战略话题更适合行业分析而非大众产品创意，建议寻找具有强社交属性、情绪共鸣或玩法创新的热搜话题。"
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 20260116105558579124324L2SoOxEq)', 'type': 'new_api_error'}, 'id': 'gen-1768532158-A1vLLdXRdyDq3cRaukIRMQ'}"
   },
   {
     "rank": 9,
-    "title": "轧戏王光明出轨",
-    "heat": 186355,
-    "fun_score": 15,
-    "useful_score": 3,
-    "total_score": 18,
-    "summary": "涉及个人隐私的娱乐八卦话题，内容真实性存疑，主要为未经证实的负面传闻。此类话题缺乏建设性价值，且可能涉及侵犯隐私和传播不实信息的风险。",
+    "title": "美甲已经进化成这样了吗",
+    "heat": 254235,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
     "has_idea": false,
-    "reason": "总分18分未达到60分标准。该话题存在以下问题：1）内容涉及个人隐私和负面八卦，不适合作为正向产品创意来源；2）真实性存疑，可能为谣言或不实信息；3）缺乏创新性和建设性价值；4）基于此类话题开发产品可能涉及伦理和法律风险；5）无实际应用价值，仅为消费性娱乐内容。建议选择更具正向价值、真实可靠且有建设性的话题进行产品创意开发。"
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 20260116105559130181734r0s2xcuD)', 'type': 'new_api_error'}, 'id': 'gen-1768532159-YahNVhSxaZARli8y0MauQd'}"
   },
   {
     "rank": 10,
-    "title": "雷军直播",
-    "heat": 180142,
-    "fun_score": 58,
-    "useful_score": 14,
-    "total_score": 72,
-    "summary": "雷军作为小米创始人进行直播活动，通常涉及新品发布、技术分享或与粉丝互动。雷军个人IP强大，直播内容兼具科技感与亲和力，吸引大量科技爱好者和米粉关注，形成较高话题热度和传播效应。",
-    "has_idea": true,
-    "product": {
-      "name": "CEO直播助手",
-      "features": [
-        "企业家直播脚本智能生成",
-        "实时弹幕情绪分析与热点捕捉",
-        "产品讲解要点提醒",
-        "观众画像分析与互动建议",
-        "直播数据看板与复盘报告"
-      ],
-      "target_users": [
-        "企业创始人/CEO",
-        "品牌公关团队",
-        "企业直播运营人员",
-        "KOL经纪团队"
-      ],
-      "description": "为企业家直播提供全流程智能支持，从内容策划到互动优化，让CEO直播更专业、更高效、更具传播力。"
-    }
+    "title": "当你用父母的方式对待父母",
+    "heat": 205601,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 20260116105559682182001TOF0yI8Z)', 'type': 'new_api_error'}, 'id': 'gen-1768532159-7EDS90AVbYhtISRZxFRUkj'}"
   },
   {
     "rank": 11,
-    "title": "公安部A级通缉犯在狱中被揪出",
-    "heat": 179312,
-    "fun_score": 25,
-    "useful_score": 8,
-    "total_score": 33,
-    "summary": "公安部A级通缉犯在服刑期间因其他案件或身份问题被重新发现并揪出，反映司法系统对重大逃犯的持续追踪能力。事件具有一定的社会关注度和话题性，但偏严肃。",
+    "title": "大学生偷外卖被拘通报公示外卖架边",
+    "heat": 203797,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
     "has_idea": false,
-    "reason": "总分33分未达到60分阈值。该话题属于严肃的司法刑侦类新闻，虽有一定猎奇性和社会教育意义，但：1）娱乐性和传播性受限于话题的严肃性；2）不适合开发趣味性产品，可能引发道德争议；3）实用价值局限于普法教育，难以转化为日常高频使用的产品功能；4）目标用户群体狭窄，商业化空间有限。此类话题更适合作为新闻报道、纪录片素材或普法教育内容，而非消费级产品创意来源。"
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 20260116105600234167270a9OZIegt)', 'type': 'new_api_error'}, 'id': 'gen-1768532160-HsLXGSuCDDfziM6ckTcw9C'}"
   },
   {
     "rank": 12,
-    "title": "学生疑上午匿名投诉学校下午被找到",
-    "heat": 175740,
-    "fun_score": 45,
-    "useful_score": 16,
-    "total_score": 61,
-    "summary": "学生通过匿名渠道投诉学校问题，但在同一天下午就被校方精准找到，引发对匿名投诉机制安全性和隐私保护的广泛讨论与担忧。",
-    "has_idea": true,
-    "product": {
-      "name": "真匿名举报盾",
-      "features": [
-        "端到端加密的匿名投诉通道",
-        "自动脱敏个人特征信息",
-        "区块链存证保护举报者",
-        "投诉进度可视化追踪",
-        "隐私泄露预警系统"
-      ],
-      "target_users": [
-        "在校学生",
-        "企业员工",
-        "需要匿名举报的普通公民",
-        "监管部门"
-      ],
-      "description": "保障真正匿名的投诉举报平台，通过技术手段保护举报人隐私安全，让监督机制真正发挥作用。"
-    }
+    "title": "被逼婚喝农药女子已清醒",
+    "heat": 200231,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 20260116105600787659771ocCyTG7y)', 'type': 'new_api_error'}, 'id': 'gen-1768532160-CZg9Ktti0v3hnqaxpbVWoA'}"
   },
   {
     "rank": 13,
-    "title": "花海房管",
-    "heat": 174884,
-    "fun_score": 25,
-    "useful_score": 8,
-    "total_score": 33,
-    "summary": "「花海房管」话题信息不明确，缺乏足够背景资料。可能涉及某个特定社区或平台的房屋管理事件，但无法确定具体内容、传播动因及用户关注点，难以评估其娱乐性和实用价值。",
+    "title": "左航换手机",
+    "heat": 197546,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
     "has_idea": false,
-    "reason": "话题背景信息严重不足，无法判断事件性质、用户痛点和传播逻辑。总分33分未达到60分阈值。缺乏明确的场景定义、用户需求和可延展的创意空间，无法提炼出有效的产品方向。建议补充话题的具体内容、相关领域（旅游/房产/游戏等）和用户讨论焦点后再评估。"
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 20260116105601339880833Dmw1eSZt)', 'type': 'new_api_error'}, 'id': 'gen-1768532161-24rMv14Y9t5ydRP12467I8'}"
   },
   {
     "rank": 14,
-    "title": "鬼鬼吐槽和艺人做朋友很累",
-    "heat": 170461,
-    "fun_score": 58,
-    "useful_score": 16,
-    "total_score": 74,
-    "summary": "艺人鬼鬼（吴映洁）在社交媒体吐槽与艺人做朋友很累，引发网友对娱乐圈人际关系、艺人社交压力、真实友谊与利益关系等话题的广泛讨论，反映了公众人物社交困境。",
-    "has_idea": true,
-    "product": {
-      "name": "真友圈",
-      "features": [
-        "匿名社交模式：隐藏身份标签进行真实交流",
-        "情绪压力值监测：记录社交互动中的情绪负担",
-        "关系健康度评估：分析友谊质量与互动模式",
-        "社交边界设置：智能提醒过度消耗的社交关系",
-        "真实话题讨论区：职场/圈层社交困境分享"
-      ],
-      "target_users": [
-        "公众人物及艺人群体",
-        "职场中层管理者",
-        "社交压力较大的都市青年",
-        "需要维护复杂人际关系的专业人士"
-      ],
-      "description": "一款帮助用户识别和管理社交关系质量的应用，通过数据化呈现友谊健康度，帮助用户建立更真诚、低负担的社交圈。"
-    }
+    "title": "张艺凡肘击丁程鑫",
+    "heat": 196620,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 20260116105601893284168K7F0BZTd)', 'type': 'new_api_error'}, 'id': 'gen-1768532161-mxBXmyWuXT05WCuuwQE9lX'}"
   },
   {
     "rank": 15,
-    "title": "夏迎春下房管",
-    "heat": 168603,
-    "fun_score": 25,
-    "useful_score": 8,
-    "total_score": 33,
-    "summary": "「夏迎春下房管」疑似涉及某主播或网红的直播间管理权变动事件。因缺乏具体背景信息，无法确定事件完整脉络，可能涉及内部人事调整、团队变动或争议性事件，但话题本身传播性和实用价值均有限。",
+    "title": "只要西贝在还跟华与华合作",
+    "heat": 192737,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
     "has_idea": false,
-    "reason": "总分33分未达标。该话题属于特定个人/圈层的人事变动事件，缺乏广泛的娱乐性和创新性（有趣度低）；作为个案事件，不具备可复制的实用价值和问题解决能力（有用度低）。话题受众局限于特定粉丝群体，难以延伸出具有普适性的产品创意。若要产品化需要更多背景信息支撑，或话题本身需具备更强的社会性、趣味性或实用性特征。"
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6 分组 (request id: 20260116105602506545549N2afMcYS)', 'type': 'new_api_error'}, 'id': 'gen-1768532162-IVHIih2wvMacaeJnF9PGzo'}"
   }
 ]
