@@ -1,182 +1,236 @@
 [
   {
     "rank": 1,
-    "title": "北京鹅毛大雪",
-    "heat": 1127663,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
+    "title": "欢瑞世纪大跌",
+    "heat": 1143068,
+    "fun_score": 25,
+    "useful_score": 12,
+    "total_score": 37,
+    "summary": "欢瑞世纪股价大幅下跌引发热议。欢瑞世纪是知名影视公司，曾出品《古剑奇谭》等热门剧集。股价波动可能与影视行业整体环境、公司经营状况或市场情绪相关，引发投资者和行业关注。",
     "has_idea": false,
     "product": null,
-    "reason": "'ThinkingBlock' object has no attribute 'text'"
+    "reason": "总分37分未达标。该话题属于财经领域的负面事件，有趣度较低：股价下跌是常见市场现象，缺乏新颖性和娱乐性，难以激发普通用户的参与热情和好奇心；有用度有限：虽对投资者有一定参考价值，但受众范围窄，且单一股票波动话题难以衍生出具有广泛实用价值的产品创意。此类财经话题更适合资讯传播而非产品开发。"
   },
   {
     "rank": 2,
-    "title": "大叔卖6元四寸蛋糕日收入几百元",
-    "heat": 792106,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
+    "title": "国乒包揽多哈站男单冠亚军",
+    "heat": 816727,
+    "fun_score": 45,
+    "useful_score": 12,
+    "total_score": 57,
+    "summary": "国乒再次在多哈站男单项目中包揽冠亚军，延续了中国乒乓球队在国际赛场的统治地位。这一成绩展现了国乒强大的整体实力和人才储备，引发球迷关注和民族自豪感。",
     "has_idea": false,
-    "product": null,
-    "reason": "'ThinkingBlock' object has no attribute 'text'"
+    "reason": "总分57分未达到60分阈值。虽然话题有一定趣味性（国乒夺冠具备传播性和民族情感共鸣），但创新度不足，属于常规体育赛事结果报道，缺乏独特性和新鲜感。实用价值方面较为有限，主要满足信息获取和情感需求，难以延伸出具有显著实用价值的产品创意。此类体育成绩话题更适合内容传播而非产品开发，需要更具创新性的切入角度才能产生有价值的产品方向。"
   },
   {
     "rank": 3,
-    "title": "冰雪热力中的中国经济新脉动",
-    "heat": 666845,
+    "title": "这个全球单一国家首次说明什么",
+    "heat": 657832,
     "fun_score": 0,
     "useful_score": 0,
     "total_score": 0,
     "summary": "分析失败",
     "has_idea": false,
     "product": null,
-    "reason": "'ThinkingBlock' object has no attribute 'text'"
+    "reason": "JSON解析失败"
   },
   {
     "rank": 4,
-    "title": "买水果发现异常提醒店员后不放心",
-    "heat": 488030,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "'ThinkingBlock' object has no attribute 'text'"
+    "title": "Prada米兰男装秀",
+    "heat": 0,
+    "fun_score": 58,
+    "useful_score": 12,
+    "total_score": 70,
+    "summary": "Prada米兰男装秀作为国际顶级时装周的重要组成部分，展示品牌最新男装系列设计。话题涵盖秀场造型、设计理念、明星嘉宾等内容，吸引时尚爱好者关注讨论，具有一定传播性和话题性。",
+    "has_idea": true,
+    "product": {
+      "name": "秀场穿搭AI助手",
+      "features": [
+        "AI识别秀场单品并匹配平替商品",
+        "一键生成个人化穿搭方案",
+        "AR试穿秀场同款造型",
+        "时尚博主解读视频聚合",
+        "男装搭配知识库与趋势分析"
+      ],
+      "target_users": [
+        "时尚敏感的年轻男性",
+        "关注奢侈品牌的中产消费者",
+        "时尚博主与内容创作者",
+        "男装穿搭初学者"
+      ],
+      "description": "将高端秀场时尚转化为日常穿搭灵感，通过AI技术帮助用户解读大秀趋势、找到平价替代、生成专属搭配方案。"
+    }
   },
   {
     "rank": 5,
-    "title": "王安宇没参加春晚联排",
-    "heat": 435922,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
+    "title": "梁小龙去世",
+    "heat": 525064,
+    "fun_score": 15,
+    "useful_score": 5,
+    "total_score": 20,
+    "summary": "著名武打演员梁小龙去世的消息引发公众关注。梁小龙以《霍元甲》中陈真等经典角色闻名，是华语功夫影视的代表人物之一，其离世引发大量网友缅怀。",
     "has_idea": false,
     "product": null,
-    "reason": "'ThinkingBlock' object has no attribute 'text'"
+    "reason": "名人去世话题属于严肃的社会新闻事件，不适合开发娱乐性或商业化产品创意。此类话题涉及对逝者的尊重和家属的悲痛，任何试图从中提取'有趣'元素或进行商业化的行为都是不恰当的。虽然可以开发纪念、缅怀类的严肃应用，但这不符合'有趣'和'有用'的评估框架。建议对此类话题保持敬意，不进行产品化开发。"
   },
   {
     "rank": 6,
-    "title": "白鹿李昀锐田曦薇宋威龙 春晚合唱",
-    "heat": 283957,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
+    "title": "肖战姜妍新剧拥抱路透",
+    "heat": 389650,
+    "fun_score": 45,
+    "useful_score": 8,
+    "total_score": 53,
+    "summary": "演员肖战与姜妍合作新剧的拍摄现场路透照曝光，二人拥抱镜头引发粉丝关注和讨论。作为典型的明星影视拍摄花絮话题，主要依靠明星效应和CP向内容吸引流量。",
     "has_idea": false,
-    "product": null,
-    "reason": "'ThinkingBlock' object has no attribute 'text'"
+    "reason": "总分53分未达标。该话题属于常规明星路透类内容，虽有一定娱乐性和粉丝关注度，但缺乏独特创新点：1）内容形式单一，仅为拍摄现场照片曝光；2）话题新颖度不足，影视剧拍摄路透是日常高频事件；3）实用价值极低，仅满足粉丝窥探欲；4）传播局限于粉丝圈层，难以破圈；5）无法延伸出有实际价值的产品创意，仅能做粉丝向的娱乐消费内容。若要产品化需结合更具创新性的互动玩法或实用功能。"
   },
   {
     "rank": 7,
-    "title": "聊城一烟花厂仓库自燃系谣言",
-    "heat": 0,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "'ThinkingBlock' object has no attribute 'text'"
+    "title": "6人就餐仅花19元老板要求带走垃圾",
+    "heat": 349951,
+    "fun_score": 62,
+    "useful_score": 16,
+    "total_score": 78,
+    "summary": "6人就餐仅花19元引发关注，老板要求顾客带走垃圾作为低消费的交换条件。这一事件折射出餐饮经营困境、消费习惯差异以及商家与顾客之间的博弈关系，引发网友对合理消费和商业规则的讨论。",
+    "has_idea": true,
+    "product": {
+      "name": "餐桌共识",
+      "features": [
+        "透明化餐厅消费规则展示系统",
+        "人均消费与服务等级匹配机制",
+        "顾客自助清理积分奖励",
+        "商家成本可视化工具",
+        "消费建议智能推荐"
+      ],
+      "target_users": [
+        "小本经营餐饮商家",
+        "追求性价比的年轻消费者",
+        "学生群体",
+        "注重餐饮透明度的顾客"
+      ],
+      "description": "帮助餐厅提前告知消费规则，让顾客理解商家成本，通过自助服务换取优惠，建立商家与消费者的信任桥梁。"
+    }
   },
   {
     "rank": 8,
-    "title": "短剧之后漫剧火了",
-    "heat": 201150,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
+    "title": "内蒙古包头一厂区发生爆炸",
+    "heat": 261271,
+    "fun_score": 5,
+    "useful_score": 2,
+    "total_score": 7,
+    "summary": "内蒙古包头某厂区发生爆炸事故的突发安全事件。此类话题属于严肃的公共安全事件，涉及人员伤亡和财产损失，不适合进行娱乐化或商业化的产品创意开发。",
     "has_idea": false,
     "product": null,
-    "reason": "'ThinkingBlock' object has no attribute 'text'"
+    "reason": "该话题是严重的安全生产事故，具有以下特点：1）涉及人员伤亡的悲剧性事件，不应娱乐化；2）属于突发负面新闻，缺乏产品创意开发的合适性；3）利用灾难事件进行商业开发有违伦理道德；4）话题本身不具备转化为有趣产品的可能性。对此类事件应保持严肃态度，关注救援进展和安全反思，而非寻求商业机会。总分7分远低于60分阈值，不建议开发任何相关产品创意。"
   },
   {
     "rank": 9,
-    "title": "喜人 春晚",
-    "heat": 194522,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
+    "title": "26岁女子两月暴瘦30斤成糖尿病前期",
+    "heat": 259481,
+    "fun_score": 35,
+    "useful_score": 18,
+    "total_score": 53,
+    "summary": "26岁女性因短时间内暴瘦30斤导致糖尿病前期，引发公众对极端减肥危害的关注。事件警示快速减重可能引发代谢紊乱、胰岛素抵抗等严重健康问题，提醒年轻人科学管理体重。",
     "has_idea": false,
-    "product": null,
-    "reason": "'ThinkingBlock' object has no attribute 'text'"
+    "reason": "总分53分未达标。虽然话题具有较高健康警示价值和实用性（涉及减肥与代谢健康），但有趣度不足：话题偏严肃医疗向，缺乏娱乐性和传播趣味性；内容以警示教育为主，难以创造独特轻松的用户体验；话题新颖度一般，类似健康警示事件较常见。该话题更适合做健康科普内容或医疗咨询服务，但作为产品创意的趣味吸引力和用户参与欲望较弱，不适合开发独立趣味性产品。"
   },
   {
     "rank": 10,
-    "title": "12306旅客误购限时免费退票",
-    "heat": 157986,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "'ThinkingBlock' object has no attribute 'text'"
+    "title": "6元4寸蛋糕店因订单太多暂停营业",
+    "heat": 252067,
+    "fun_score": 58,
+    "useful_score": 16,
+    "total_score": 74,
+    "summary": "某蛋糕店推出6元4寸小蛋糕引发抢购热潮，订单量暴增导致商家不得不暂停营业。事件反映消费者对平价优质产品的追捧，以及小本经营面临的产能压力，引发关于性价比消费和理性消费的讨论。",
+    "has_idea": true,
+    "product": {
+      "name": "小确甜-迷你蛋糕预约平台",
+      "features": [
+        "平价迷你蛋糕商家聚合展示",
+        "智能排队预约系统，避免商家超负荷",
+        "每日限量发售提醒推送",
+        "用户评价和性价比排行榜",
+        "商家产能可视化管理工具"
+      ],
+      "target_users": [
+        "追求性价比的年轻消费者",
+        "独居人群和小份量需求者",
+        "小型烘焙创业商家",
+        "喜欢尝鲜的美食爱好者"
+      ],
+      "description": "连接平价迷你蛋糕商家与消费者的预约平台，通过智能排队和产能管理，让消费者吃到实惠好物，帮助商家平衡供需。"
+    }
   },
   {
     "rank": 11,
-    "title": "涨20元月薪公司已连续37年涨薪",
-    "heat": 138476,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
+    "title": "轧戏",
+    "heat": 234918,
+    "fun_score": 45,
+    "useful_score": 12,
+    "total_score": 57,
+    "summary": "「轧戏」指演员同时拍摄多部作品导致档期冲突，引发表演质量下降、过度使用替身等问题。该话题反映影视行业乱象，涉及明星敬业度、作品质量等争议，易引发网友对具体艺人和剧组的讨论与批评。",
     "has_idea": false,
-    "product": null,
-    "reason": "'ThinkingBlock' object has no attribute 'text'"
+    "reason": "总分57分未达60分阈值。虽然话题具有一定娱乐性和行业关注度，能引发网友讨论和八卦兴趣，但缺乏足够的产品化空间：1）话题主要是行业负面现象的曝光和批评，情绪偏负面；2）受众以娱乐八卦用户为主，场景较为单一；3）实用价值有限，普通用户难以从中获得直接帮助；4）产品切入点不明确，难以转化为有持续价值的创新产品。更适合做内容话题讨论而非产品开发。"
   },
   {
     "rank": 12,
-    "title": "鞠婧祎犯困都有人仿妆模仿了",
-    "heat": 138427,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
+    "title": "董子健回复孙怡",
+    "heat": 232404,
+    "fun_score": 35,
+    "useful_score": 5,
+    "total_score": 40,
+    "summary": "演员董子健与前妻孙怡在社交媒体上互动，引发网友关注。两人2017年结婚，2022年离婚，育有一女。离婚后的公开互动往往成为娱乐热点，涉及明星私生活和情感话题。",
     "has_idea": false,
-    "product": null,
-    "reason": "'ThinkingBlock' object has no attribute 'text'"
+    "reason": "总分40分未达标。该话题属于明星私生活八卦，虽有一定娱乐性和传播性（吃瓜属性），但新颖度不足，类似明星离婚后互动的话题重复度高。有趣度方面：话题本身是常规娱乐新闻，缺乏创意元素和独特体验，主要依赖明星效应，难以转化为有价值的产品创意。有用度方面：纯娱乐八卦话题，无实际问题解决能力，不具备实用价值。此类话题更适合内容消费而非产品开发，缺乏可持续的商业化和功能化空间。"
   },
   {
     "rank": 13,
-    "title": "特朗普因格陵兰岛向欧洲8国加税",
-    "heat": 138297,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
+    "title": "改善骨盆前倾 卧英雄式",
+    "heat": 200058,
+    "fun_score": 35,
+    "useful_score": 18,
+    "total_score": 53,
+    "summary": "骨盆前倾是常见体态问题，卧英雄式作为瑜伽体式被推荐用于改善此问题。话题聚焦健康矫正领域，吸引关注体态管理和瑜伽练习的用户群体，体现了大众对科学健身和身体管理的需求。",
     "has_idea": false,
-    "product": null,
-    "reason": "'ThinkingBlock' object has no attribute 'text'"
+    "reason": "总分53分未达标。虽然话题实用价值高（解决真实体态问题），但有趣度不足：1）话题属于传统健身领域，新颖性有限；2）专业性较强但娱乐性和传播性较弱；3）缺乏社交互动元素和话题性；4）用户参与门槛较高（需要专业指导）。此类健康科普话题更适合作为功能模块融入现有健身APP，而非独立产品创意的核心支撑点。若要达标需增加趣味化、社交化或gamification元素。"
   },
   {
     "rank": 14,
-    "title": "王鹤棣给每个嘉宾都留了时间唱个人曲",
-    "heat": 138261,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
+    "title": "oner败诉",
+    "heat": 196491,
+    "fun_score": 28,
+    "useful_score": 8,
+    "total_score": 36,
+    "summary": "ONER（岳岳）涉及法律诉讼并败诉，引发粉丝和公众关注。作为娱乐圈事件，涉及明星个人法律纠纷，具有一定话题性但缺乏持续传播价值和深度创意空间。",
     "has_idea": false,
-    "product": null,
-    "reason": "'ThinkingBlock' object has no attribute 'text'"
+    "reason": "总分36分未达标。该话题属于明星个人法律纠纷，虽有一定关注度但：1）有趣度不足：法律诉讼话题较严肃，缺乏娱乐性和创意延展空间，难以转化为有趣的互动体验；2）有用度较低：个案性质强，对普通用户实际价值有限；3）话题敏感性高：涉及法律和个人名誉，不适合作为产品创意基础；4）传播生命周期短，热度消退快。建议关注更具普适性、正向价值和创意空间的话题进行产品开发。"
   },
   {
     "rank": 15,
-    "title": "男子打顺风车为20多元过路费进急诊",
-    "heat": 138163,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "'ThinkingBlock' object has no attribute 'text'"
+    "title": "曝杨紫每天都在很痛苦地减肥",
+    "heat": 188111,
+    "fun_score": 58,
+    "useful_score": 16,
+    "total_score": 74,
+    "summary": "明星杨紫被曝每天都在痛苦减肥，引发公众对明星体重管理压力的关注。话题触及娱乐圈身材焦虑、健康减肥方式等社会议题，具有较强的共鸣性和讨论价值。",
+    "has_idea": true,
+    "product": {
+      "name": "减肥情绪陪伴APP",
+      "features": [
+        "减肥过程情绪日记记录与分析",
+        "AI情绪陪伴与心理疏导",
+        "健康减肥计划定制（非极端方式）",
+        "减肥伙伴匹配与互助社区",
+        "身材焦虑缓解冥想课程",
+        "营养师/心理咨询师在线支持"
+      ],
+      "target_users": [
+        "正在减肥但感到痛苦压力的人群",
+        "有身材焦虑的年轻女性",
+        "需要健康减肥指导的用户",
+        "关注心理健康的减肥者"
+      ],
+      "description": "关注减肥者心理健康的陪伴型应用，提供情绪支持和科学减肥方案，让减肥不再痛苦。"
+    }
   }
 ]
