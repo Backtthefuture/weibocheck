@@ -1,331 +1,182 @@
 [
   {
     "rank": 1,
-    "title": "轧戏",
-    "heat": 1076382,
+    "title": "北京鹅毛大雪",
+    "heat": 1127663,
     "fun_score": 0,
     "useful_score": 0,
     "total_score": 0,
     "summary": "分析失败",
     "has_idea": false,
     "product": null,
-    "reason": "JSON解析失败"
+    "reason": "'ThinkingBlock' object has no attribute 'text'"
   },
   {
     "rank": 2,
-    "title": "男子从喉咙痛到进ICU只用1小时",
-    "heat": 755814,
-    "fun_score": 25,
-    "useful_score": 18,
-    "total_score": 43,
-    "summary": "男子因急性会厌炎等危急病症从喉咙痛到进ICU仅用1小时，引发公众对急性疾病认知不足的关注。此类病症进展迅速，强调早期识别和紧急就医的重要性。",
+    "title": "大叔卖6元四寸蛋糕日收入几百元",
+    "heat": 792106,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
     "has_idea": false,
-    "reason": "总分43分未达标。虽然话题有较强的医疗科普价值和实用性（能提醒公众警惕危急症状），但作为产品创意来源，趣味性和创新性不足。该话题更适合做健康教育内容、医疗科普文章或急救知识推广，而非独立产品开发。严肃的医疗话题缺乏娱乐性和参与互动的空间，难以转化为有吸引力的产品体验。建议将此类话题整合到现有健康管理类应用的症状自查或急救指南模块中。"
+    "product": null,
+    "reason": "'ThinkingBlock' object has no attribute 'text'"
   },
   {
     "rank": 3,
     "title": "冰雪热力中的中国经济新脉动",
-    "heat": 627390,
-    "fun_score": 52,
-    "useful_score": 16,
-    "total_score": 68,
-    "summary": "话题聚焦冬季冰雪经济发展，涵盖冰雪旅游、冬季运动、相关产业链等领域，展现中国冰雪产业从小众运动到大众消费的转型，以及对区域经济、就业、消费升级的推动作用。",
-    "has_idea": true,
-    "product": {
-      "name": "雪域淘金",
-      "features": [
-        "冰雪目的地智能推荐与行程规划",
-        "滑雪场实时雪况、人流热力图",
-        "装备租赁比价与教练预约",
-        "冰雪消费积分兑换冬奥周边",
-        "UGC冰雪运动社区与挑战赛",
-        "冰雪产业投资机会地图"
-      ],
-      "target_users": [
-        "冰雪运动爱好者",
-        "冬季旅游人群",
-        "冰雪产业从业者",
-        "区域经济研究者"
-      ],
-      "description": "一站式冰雪经济服务平台，连接用户与冰雪消费场景，提供智能决策工具，同时可视化展现冰雪产业经济数据。"
-    }
-  },
-  {
-    "rank": 4,
-    "title": "王鹤棣演唱会",
-    "heat": 511993,
-    "fun_score": 52,
-    "useful_score": 12,
-    "total_score": 64,
-    "summary": "王鹤棣演唱会作为粉丝经济热点事件，具有明星效应和娱乐属性。演唱会是粉丝与偶像互动的重要场景，涉及票务、应援、周边、社交分享等多元需求，具备商业化和社交传播价值。",
-    "has_idea": true,
-    "product": {
-      "name": "星光应援站",
-      "features": [
-        "演唱会实时座位视角预览（AR技术模拟不同座位观演体验）",
-        "智能应援物资推荐与定制（灯牌、横幅、服装搭配）",
-        "粉丝同城拼车/拼住宿匹配",
-        "演唱会moments时间轴（记录入场、互动、返场等关键时刻）",
-        "应援打卡地图与周边探店指南"
-      ],
-      "target_users": [
-        "偶像明星的粉丝群体",
-        "演唱会参与者",
-        "追星族和娱乐消费者"
-      ],
-      "description": "为演唱会粉丝提供从购票到观演全流程的智能应援工具，整合座位选择、应援准备、社交互动、回忆记录功能的一站式平台。"
-    }
-  },
-  {
-    "rank": 5,
-    "title": "乡村蛋糕店4寸卖10元走红",
-    "heat": 302191,
-    "fun_score": 58,
-    "useful_score": 16,
-    "total_score": 74,
-    "summary": "某乡村蛋糕店以4寸蛋糕10元的超低价格走红网络，与城市动辄几十上百元的价格形成鲜明对比，引发网友热议消费降级、城乡价差及小店生存智慧等话题，体现接地气的商业模式。",
-    "has_idea": true,
-    "product": {
-      "name": "良心价地图",
-      "features": [
-        "用户标注分享本地良心价商家",
-        "按品类展示各地真实价格对比",
-        "社区评价与防坑指南",
-        "乡村小店发现与导航",
-        "价格预警与消费建议"
-      ],
-      "target_users": [
-        "注重性价比的年轻消费者",
-        "寻找平价替代的城市居民",
-        "希望增加曝光的乡村小店主",
-        "旅行中寻找本地特色的游客"
-      ],
-      "description": "众包式平价商家发现平台，帮助用户找到身边被忽视的良心小店，打破信息差，让实惠触手可及。"
-    }
-  },
-  {
-    "rank": 6,
-    "title": "毕业11年存350万的5个消费习惯",
-    "heat": 301996,
-    "fun_score": 58,
-    "useful_score": 18,
-    "total_score": 76,
-    "summary": "一位职场人士分享毕业11年存下350万的经验，通过5个具体消费习惯引发网友热议。话题结合理财、自律、消费观等元素，在社交媒体引起广泛讨论和共鸣。",
-    "has_idea": true,
-    "product": {
-      "name": "存钱小目标",
-      "features": [
-        "智能消费习惯追踪与评分系统",
-        "个性化存钱计划定制（1年/5年/10年目标）",
-        "消费决策助手（购买前理性分析提醒）",
-        "财富成长可视化（存款里程碑徽章系统）",
-        "优质理财习惯社区（用户分享经验故事）"
-      ],
-      "target_users": [
-        "25-35岁职场新人和中层",
-        "有存钱目标但缺乏自律的年轻人",
-        "追求财务自由的消费者",
-        "关注个人成长的理财初学者"
-      ],
-      "description": "游戏化理财APP，通过趣味追踪和社交激励，帮助年轻人养成科学消费习惯，实现财富积累目标。"
-    }
-  },
-  {
-    "rank": 7,
-    "title": "科技有AI 2026奇瑞汽车AI之夜",
-    "heat": 0,
-    "fun_score": 58,
-    "useful_score": 14,
-    "total_score": 72,
-    "summary": "奇瑞汽车举办AI主题发布会，展示智能驾驶、车载AI助手等前沿技术。作为传统车企拥抱AI浪潮的标志性事件，融合汽车工业与人工智能，吸引科技爱好者和汽车用户关注。",
-    "has_idea": true,
-    "product": {
-      "name": "AI驾驶伙伴",
-      "features": [
-        "个性化驾驶习惯学习与建议",
-        "智能语音交互车载助手",
-        "路况预测与最优路线推荐",
-        "驾驶行为分析与安全评分",
-        "车辆健康监测与维护提醒"
-      ],
-      "target_users": [
-        "新能源车主",
-        "科技爱好者",
-        "年轻家庭用户",
-        "通勤上班族"
-      ],
-      "description": "结合AI技术的智能车载应用，提供个性化驾驶体验、安全辅助和车辆管理服务"
-    }
-  },
-  {
-    "rank": 8,
-    "title": "家中凌晨进贼女子全程装睡",
-    "heat": 300691,
-    "fun_score": 62,
-    "useful_score": 16,
-    "total_score": 78,
-    "summary": "女子凌晨遭遇入室盗窃，选择全程装睡避免正面冲突，此举引发网友热议。话题涉及紧急情况下的自保策略、居家安全意识等社会关注点。",
-    "has_idea": true,
-    "product": {
-      "name": "守夜人智能安防助手",
-      "features": [
-        "AI人形识别+异常行为检测，自动区分家人与陌生人",
-        "智能应急模式：检测到入侵时自动静音报警到手机，提供装睡/对峙/逃生等策略建议",
-        "云端实时录像+自动报警，证据自动上传保全",
-        "模拟在家声音（电视声、说话声）威慑功能",
-        "紧急求助按钮，一键联系亲友和警方"
-      ],
-      "target_users": [
-        "独居女性",
-        "空巢老人",
-        "经常出差家中无人的用户",
-        "居住在安保较弱小区的住户"
-      ],
-      "description": "基于AI的智能家居安防系统，遇险时提供最优自保策略，既保护人身安全又保全证据，让用户安心。"
-    }
-  },
-  {
-    "rank": 9,
-    "title": "春晚",
-    "heat": 272490,
-    "fun_score": 65,
-    "useful_score": 14,
-    "total_score": 79,
-    "summary": "春晚作为中国最具影响力的年度文化盛事，每年除夕夜吸引数亿观众。话题涵盖节目内容、明星阵容、创意节目、经典瞬间、吐槽互动等，是全民参与的娱乐社交话题。",
-    "has_idea": true,
-    "product": {
-      "name": "春晚时光机",
-      "features": [
-        "AI生成个性化春晚节目单推荐",
-        "实时弹幕社交互动和话题投票",
-        "历年春晚经典片段智能剪辑回顾",
-        "AR虚拟舞台让用户与明星同台表演",
-        "春晚Bingo游戏：预测节目梗和热搜词",
-        "家庭群聊专属表情包和拜年模板生成"
-      ],
-      "target_users": [
-        "18-45岁关注春晚的年轻观众",
-        "喜欢社交互动的娱乐爱好者",
-        "希望与家人共享观看体验的用户",
-        "怀旧情怀的中年观众群体"
-      ],
-      "description": "打造沉浸式春晚观看体验的社交娱乐平台，融合AI推荐、实时互动、怀旧回忆与创意玩法，让看春晚更有趣。"
-    }
-  },
-  {
-    "rank": 10,
-    "title": "AG对战EDGM",
-    "heat": 196421,
-    "fun_score": 62,
-    "useful_score": 14,
-    "total_score": 76,
-    "summary": "AG超玩会对战EDGM是王者荣耀职业联赛(KPL)的焦点赛事。两支顶尖战队的对决吸引大量电竞粉丝关注，比赛过程充满悬念和精彩操作，是电竞娱乐的重要内容。",
-    "has_idea": true,
-    "product": {
-      "name": "战局预言家",
-      "features": [
-        "实时赛事数据可视化分析",
-        "AI预测比赛走向和关键时刻",
-        "多视角战况回放与高光集锦",
-        "选手数据对比和英雄Ban/Pick分析",
-        "社区互动竞猜和弹幕实时讨论",
-        "个性化关注战队动态推送"
-      ],
-      "target_users": [
-        "王者荣耀电竞爱好者",
-        "KPL赛事观众",
-        "数据分析型玩家",
-        "电竞博彩/竞猜用户",
-        "战队粉丝群体"
-      ],
-      "description": "为电竞观众提供沉浸式观赛体验的智能分析平台，结合AI预测、数据可视化和社交互动，让每场比赛更有趣、更易懂。"
-    }
-  },
-  {
-    "rank": 11,
-    "title": "东部战区发表谈话",
-    "heat": 196316,
-    "fun_score": 15,
-    "useful_score": 5,
-    "total_score": 20,
-    "summary": "东部战区发表谈话属于军事政治敏感话题，涉及国家安全和地缘政治。此类话题严肃性强，不适合作为娱乐化或商业化产品创意的基础。",
-    "has_idea": false,
-    "reason": "该话题总分仅20分，远低于60分阈值。主要原因：1）军事政治话题敏感性高，不适合产品化；2）缺乏娱乐性和趣味性，难以引发用户参与欲；3）不具备可转化为消费产品的场景；4）涉及国家安全议题，商业化存在政治风险和伦理问题。建议避免基于此类严肃政治军事话题开发产品创意。"
-  },
-  {
-    "rank": 12,
-    "title": "帕梅拉胖了6公斤",
-    "heat": 195597,
-    "fun_score": 62,
-    "useful_score": 16,
-    "total_score": 78,
-    "summary": "知名健身博主帕梅拉（Pamela Reif）体重增加6公斤引发热议。作为以严格健身著称的网红，这一变化打破了完美人设，引发关于身材焦虑、健康标准和真实生活状态的讨论。",
-    "has_idea": true,
-    "product": {
-      "name": "真实身材日记",
-      "features": [
-        "记录体重波动曲线，展示真实身材变化",
-        "AI分析体重波动原因（生理期、压力、饮食等）",
-        "匿名社区分享身材故事，去标签化交流",
-        "健康区间提醒，弱化完美身材焦虑",
-        "邀请健身博主分享真实状态，建立榜样多样性"
-      ],
-      "target_users": [
-        "有身材焦虑的年轻女性",
-        "健身爱好者",
-        "追求健康生活方式而非完美身材的用户",
-        "需要情绪支持和真实反馈的减肥人群"
-      ],
-      "description": "打破身材完美主义，用数据和社区陪伴用户接纳真实的身体变化，建立健康而非极端的身材观念。"
-    }
-  },
-  {
-    "rank": 13,
-    "title": "487秒删",
-    "heat": 194964,
-    "fun_score": 68,
-    "useful_score": 14,
-    "total_score": 82,
-    "summary": "\"487秒删\"指微博内容发布后487秒内被删除的现象，通常涉及敏感、争议或临时情绪表达的内容。这种精确的时间记录反映了网民对信息生命周期的关注，以及对\"说了又不敢说\"这种矛盾心理的调侃。",
-    "has_idea": true,
-    "product": {
-      "name": "后悔药时光机",
-      "features": [
-        "社交媒体内容定时自毁功能（用户可设置7秒-24小时）",
-        "情绪冷静期提醒（发布前倒计时缓冲）",
-        "私密树洞模式（内容仅自己可见，可选择性公开）",
-        "\"后悔指数\"分析（AI预测内容可能引发的反响）",
-        "删除历史归档（本地保存已删除内容供回顾）"
-      ],
-      "target_users": [
-        "情绪化表达需求强烈但事后易后悔的年轻用户",
-        "需要发泄但担心影响形象的职场人士",
-        "追求社交媒体形象管理的KOL"
-      ],
-      "description": "一款帮助用户勇敢表达又避免后悔的社交工具，让每一次发声都有\"反悔权\"。"
-    }
-  },
-  {
-    "rank": 14,
-    "title": "榜一大哥王楚钦",
-    "heat": 194046,
+    "heat": 666845,
     "fun_score": 0,
     "useful_score": 0,
     "total_score": 0,
     "summary": "分析失败",
     "has_idea": false,
     "product": null,
-    "reason": "JSON解析失败"
+    "reason": "'ThinkingBlock' object has no attribute 'text'"
+  },
+  {
+    "rank": 4,
+    "title": "买水果发现异常提醒店员后不放心",
+    "heat": 488030,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "'ThinkingBlock' object has no attribute 'text'"
+  },
+  {
+    "rank": 5,
+    "title": "王安宇没参加春晚联排",
+    "heat": 435922,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "'ThinkingBlock' object has no attribute 'text'"
+  },
+  {
+    "rank": 6,
+    "title": "白鹿李昀锐田曦薇宋威龙 春晚合唱",
+    "heat": 283957,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "'ThinkingBlock' object has no attribute 'text'"
+  },
+  {
+    "rank": 7,
+    "title": "聊城一烟花厂仓库自燃系谣言",
+    "heat": 0,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "'ThinkingBlock' object has no attribute 'text'"
+  },
+  {
+    "rank": 8,
+    "title": "短剧之后漫剧火了",
+    "heat": 201150,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "'ThinkingBlock' object has no attribute 'text'"
+  },
+  {
+    "rank": 9,
+    "title": "喜人 春晚",
+    "heat": 194522,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "'ThinkingBlock' object has no attribute 'text'"
+  },
+  {
+    "rank": 10,
+    "title": "12306旅客误购限时免费退票",
+    "heat": 157986,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "'ThinkingBlock' object has no attribute 'text'"
+  },
+  {
+    "rank": 11,
+    "title": "涨20元月薪公司已连续37年涨薪",
+    "heat": 138476,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "'ThinkingBlock' object has no attribute 'text'"
+  },
+  {
+    "rank": 12,
+    "title": "鞠婧祎犯困都有人仿妆模仿了",
+    "heat": 138427,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "'ThinkingBlock' object has no attribute 'text'"
+  },
+  {
+    "rank": 13,
+    "title": "特朗普因格陵兰岛向欧洲8国加税",
+    "heat": 138297,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "'ThinkingBlock' object has no attribute 'text'"
+  },
+  {
+    "rank": 14,
+    "title": "王鹤棣给每个嘉宾都留了时间唱个人曲",
+    "heat": 138261,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "'ThinkingBlock' object has no attribute 'text'"
   },
   {
     "rank": 15,
-    "title": "穆祉丞提到了双人舞台",
-    "heat": 193543,
-    "fun_score": 35,
-    "useful_score": 8,
-    "total_score": 43,
-    "summary": "穆祉丞（音乐人/艺人）在采访或社交媒体中提及双人舞台相关内容，可能涉及合作舞台、演唱会规划或音乐企划。话题关注度中等，主要吸引粉丝群体关注。",
+    "title": "男子打顺风车为20多元过路费进急诊",
+    "heat": 138163,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
     "has_idea": false,
-    "reason": "总分43分未达60分阈值。该话题属于明星个人动态分享，娱乐性较弱（仅为提及性内容而非实际事件），传播范围局限于粉丝圈层，缺乏广泛的新颖性和病毒传播特质。实用价值低，仅为信息获取，无法解决实际问题或提供功能性价值。话题热度19万属中低水平，内容深度不足以支撑产品化创意开发。"
+    "product": null,
+    "reason": "'ThinkingBlock' object has no attribute 'text'"
   }
 ]
