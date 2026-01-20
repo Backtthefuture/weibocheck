@@ -1,274 +1,182 @@
 [
   {
     "rank": 1,
-    "title": "人民日报评美国斩杀线",
-    "heat": 1060539,
+    "title": "儿子回应怒吼癌症妈妈碰瓷爆火",
+    "heat": 1230779,
     "fun_score": 0,
     "useful_score": 0,
     "total_score": 0,
     "summary": "分析失败",
     "has_idea": false,
     "product": null,
-    "reason": "JSON解析失败"
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6-0115 分组 (request id: 20260120105730297986847NfVpunGo)', 'type': 'new_api_error'}, 'id': 'gen-1768877850-Y8PWeq33wI4H7b2yeOqZCQ'}"
   },
   {
     "rank": 2,
-    "title": "下雪",
-    "heat": 788272,
-    "fun_score": 58,
-    "useful_score": 16,
-    "total_score": 74,
-    "summary": "冬季下雪话题登上热搜，网友分享各地雪景、堆雪人、打雪仗等趣味内容，南方网友羡慕北方降雪，话题引发全民参与讨论和互动，展现冬季独特的浪漫氛围和娱乐性。",
-    "has_idea": true,
-    "product": {
-      "name": "雪景拼图",
-      "features": [
-        "实时汇聚全国各地雪景照片地图",
-        "AI识别雪量等级并生成雪景评分",
-        "雪友社交匹配：找同城玩雪伙伴",
-        "雪景AR滤镜：为无雪地区生成虚拟降雪",
-        "雪天出行指南：路况预警和安全提示"
-      ],
-      "target_users": "喜欢雪景的年轻人、南方无雪地区用户、摄影爱好者、亲子家庭",
-      "description": "一款连接全国雪友的社交地图APP，让用户分享雪景、寻找玩伴，南方用户可通过AR体验降雪，并获取实用的雪天生活指南。"
-    }
-  },
-  {
-    "rank": 3,
-    "title": "2025年中国经济成绩单",
-    "heat": 634172,
-    "fun_score": 35,
-    "useful_score": 16,
-    "total_score": 51,
-    "summary": "2025年中国经济年度数据发布，涉及GDP增长率、就业、消费、投资等核心指标。作为反映国家经济发展状况的权威报告，引发社会各界广泛关注和讨论。",
-    "has_idea": false,
-    "reason": "总分51分未达到60分阈值。虽然话题具有较高的实用价值（宏观经济数据对投资、就业、政策理解有指导意义），但有趣度偏低。原因：1）经济数据本身较为严肃、专业，缺乏娱乐性和传播趣味；2）话题创新性不足，属于年度常规事件；3）用户参与门槛较高，需要一定经济知识背景；4）难以创造独特、轻松的用户体验。更适合作为严肃财经资讯而非趣味产品创意来源。"
-  },
-  {
-    "rank": 4,
-    "title": "陈光标喊话李亚鹏提供银行卡号",
-    "heat": 375048,
-    "fun_score": 25,
-    "useful_score": 5,
-    "total_score": 30,
-    "summary": "陈光标公开喊话李亚鹏提供银行卡号，疑似涉及债务或捐款相关事宜。两位公众人物的互动引发围观，但事件本质属于个人纠纷或炒作行为，缺乏普遍性和创新性。",
-    "has_idea": false,
-    "reason": "总分30分未达标。有趣度低（25分）：虽有名人效应和围观属性，但话题本质是个人恩怨或炒作，缺乏创意性、互动性和正向娱乐价值，传播多基于猎奇心理而非内容质量。有用度极低（5分）：事件仅涉及特定个人间的私人事务，对普通用户无实际参考价值，不解决任何实际问题，也无法转化为有普遍意义的产品功能或服务场景。整体属于低质量热点话题，不适合作为产品创意来源。"
-  },
-  {
-    "rank": 5,
-    "title": "网传歌手2026首发已确定",
-    "heat": 229040,
-    "fun_score": 58,
-    "useful_score": 12,
-    "total_score": 70,
-    "summary": "《歌手2026》疑似提前曝光首发阵容，引发网友热议。作为知名音乐竞演节目，阵容猜测和剧透历来是粉丝关注焦点，话题具有较强娱乐性和传播性。",
-    "has_idea": true,
-    "product": {
-      "name": "歌手阵容竞猜",
-      "features": [
-        "综艺节目阵容预测与竞猜",
-        "粉丝投票心愿歌手榜单",
-        "爆料真伪度评分系统",
-        "歌手数据库与历史参演记录",
-        "竞猜积分排行与奖励机制"
-      ],
-      "target_users": [
-        "音乐综艺爱好者",
-        "歌手粉丝群体",
-        "娱乐八卦关注者",
-        "综艺节目重度观众"
-      ],
-      "description": "音乐综艺阵容竞猜社区，用户可预测参演歌手、验证爆料真伪、参与心愿投票，打造娱乐互动新体验。"
-    }
-  },
-  {
-    "rank": 6,
-    "title": "轧戏",
-    "heat": 200582,
-    "fun_score": 58,
-    "useful_score": 15,
-    "total_score": 73,
-    "summary": "「轧戏」指演员同时拍摄多部作品导致档期冲突，常引发表演质量下降、剧组矛盾等问题。话题可能因某明星轧戏事件或行业乱象讨论引发热议，涉及演艺圈职业操守争议。",
-    "has_idea": true,
-    "product": {
-      "name": "戏约通 - 影视档期管理助手",
-      "features": [
-        "演员档期可视化管理，智能冲突预警",
-        "剧组拍摄进度协同与透明化",
-        "合约条款自动解析与风险提示",
-        "行业诚信评分与黑名单共享机制",
-        "AI推荐最优档期安排方案"
-      ],
-      "target_users": [
-        "影视剧组制片方",
-        "演员经纪团队",
-        "艺人工作室",
-        "影视行业从业者"
-      ],
-      "description": "为影视行业提供档期管理和协同工具，用技术手段杜绝轧戏乱象，提升行业效率与作品质量。"
-    }
-  },
-  {
-    "rank": 7,
-    "title": "云南地震",
-    "heat": 197557,
-    "fun_score": 15,
-    "useful_score": 18,
-    "total_score": 33,
-    "summary": "云南发生地震引发网络关注。地震作为自然灾害话题，主要涉及灾情通报、救援进展、安全提醒等严肃内容，属于公共安全和应急响应范畴。",
-    "has_idea": false,
-    "reason": "地震是严重的自然灾害，涉及人员伤亡和财产损失，不适合以'有趣'为导向开发产品。虽然地震预警、应急救援等有实用价值，但这类产品需要专业资质和技术支持，不宜作为热搜驱动的快速创意产品。从伦理角度，灾难性事件不应被娱乐化或商业化利用。现有的地震预警系统、应急App已较为成熟，常规产品创意难以产生增量价值。总分33分未达到60分阈值。"
-  },
-  {
-    "rank": 8,
-    "title": "火锅店用鱼缸养鲨鱼供人观赏",
-    "heat": 174354,
-    "fun_score": 62,
-    "useful_score": 8,
-    "total_score": 70,
-    "summary": "火锅店创新引入鲨鱼观赏元素，将餐饮与海洋生物展示结合，营造独特就餐氛围。话题因其反差感和新奇性引发网友热议，展现了餐饮业态创新的新方向。",
-    "has_idea": true,
-    "product": {
-      "name": "奇遇餐厅",
-      "features": [
-        "AR虚拟海洋生物投影系统，在餐桌周围展示鲨鱼、鲸鱼等海洋生物",
-        "主题餐厅地图与打卡系统，收集不同主题餐厅体验",
-        "用餐环境氛围评分社区，用户分享特色餐厅",
-        "餐厅创意排行榜，发现最具沉浸感的用餐场所"
-      ],
-      "target_users": [
-        "追求新奇体验的年轻消费者",
-        "喜欢社交打卡的美食爱好者",
-        "亲子家庭用户",
-        "餐饮创业者寻找创新灵感"
-      ],
-      "description": "连接特色主题餐厅与猎奇食客的发现平台，用科技让每次用餐都成为冒险体验"
-    }
-  },
-  {
-    "rank": 9,
-    "title": "春节放假35天的公司利润一半给员工",
-    "heat": 174220,
-    "fun_score": 68,
-    "useful_score": 16,
-    "total_score": 84,
-    "summary": "某公司春节放假35天并将利润一半分给员工的消息引发热议，引发网友对理想企业文化、员工福利和工作生活平衡的广泛讨论，成为打工人向往的「别人家的公司」典范。",
-    "has_idea": true,
-    "product": {
-      "name": "福利公司榜",
-      "features": [
-        "员工匿名爆料公司真实福利待遇",
-        "假期长度、利润分配等维度排行榜",
-        "AI生成个性化公司福利对比报告",
-        "求职者福利预期计算器",
-        "企业HR福利方案参考库"
-      ],
-      "target_users": [
-        "求职者和在职员工",
-        "HR和企业管理者",
-        "关注职场文化的年轻人"
-      ],
-      "description": "打造透明化企业福利信息平台，帮助求职者找到真正的「好公司」，激励企业优化员工福利体系。"
-    }
-  },
-  {
-    "rank": 10,
-    "title": "华为2025年中国智能手机市占第一",
-    "heat": 173537,
-    "fun_score": 45,
-    "useful_score": 14,
-    "total_score": 59,
-    "summary": "华为2025年在中国智能手机市场份额跃居第一，标志着其在芯片制裁后的强势回归。这一成就反映了国产品牌的崛起和消费者对技术自主的支持，引发市场格局重大变化。",
-    "has_idea": false,
-    "reason": "总分59分未达到60分阈值。虽然话题具有一定的民族情感共鸣和市场关注度，但作为既成事实的市场数据新闻，缺乏足够的娱乐性、互动性和创新角度。话题更偏向商业资讯而非能激发强烈好奇心的内容，传播主要依赖品牌效应而非话题本身的趣味性。实用价值方面，对普通消费者的购机决策有一定参考意义，但不具备直接解决问题或提供即时便利的属性。需要更具创意的切入点才能转化为有吸引力的产品概念。"
-  },
-  {
-    "rank": 11,
-    "title": "周杰伦昆凌 生理性喜欢",
-    "heat": 172516,
+    "title": "上海下雪",
+    "heat": 886121,
     "fun_score": 0,
     "useful_score": 0,
     "total_score": 0,
     "summary": "分析失败",
     "has_idea": false,
     "product": null,
-    "reason": "JSON解析失败"
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6-0115 分组 (request id: 20260120105730927364194Ex9ErcE5)', 'type': 'new_api_error'}, 'id': 'gen-1768877850-JmNxu1Qb9bmWU7DMjMhvvR'}"
+  },
+  {
+    "rank": 3,
+    "title": "卫星互联网低轨19组卫星发射成功",
+    "heat": 678058,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6-0115 分组 (request id: 20260120105731500243908TvnrrZFw)', 'type': 'new_api_error'}, 'id': 'gen-1768877851-2Ae4Gpe2wAyLqOOKFVcok0'}"
+  },
+  {
+    "rank": 4,
+    "title": "天猫年货精选周开卖",
+    "heat": 0,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6-0115 分组 (request id: 2026012010573269551496cHE3AtQq)', 'type': 'new_api_error'}, 'id': 'gen-1768877852-QVd8CKJjn22Yw68xTkDXmo'}"
+  },
+  {
+    "rank": 5,
+    "title": "特朗普嫉妒中国已是公开秘密",
+    "heat": 584340,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6-0115 分组 (request id: 20260120105732646068656Dw5BdEB4)', 'type': 'new_api_error'}, 'id': 'gen-1768877852-4d3yW8pavwDEDkXq4uvcQ5'}"
+  },
+  {
+    "rank": 6,
+    "title": "华伦天奴去世",
+    "heat": 564894,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6-0115 分组 (request id: 20260120105733222062901kaBUrw4Q)', 'type': 'new_api_error'}, 'id': 'gen-1768877853-0VF0t2mqYI5OHHdQ9Qf1Lt'}"
+  },
+  {
+    "rank": 7,
+    "title": "带1000去嫣然医院出院还剩990",
+    "heat": 520101,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6-0115 分组 (request id: 202601201057337998070203wY4MJOM)', 'type': 'new_api_error'}, 'id': 'gen-1768877853-glGcugXpaz5GSVsGw5EblH'}"
+  },
+  {
+    "rank": 8,
+    "title": "网络辟谣标签",
+    "heat": 0,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6-0115 分组 (request id: 20260120105734369993262sgayLrHR)', 'type': 'new_api_error'}, 'id': 'gen-1768877854-Hkyvqm3wOsWAyHDIqHp6Lo'}"
+  },
+  {
+    "rank": 9,
+    "title": "原来真的有AB货啊",
+    "heat": 442501,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6-0115 分组 (request id: 20260120105734966922211GmJwZCKb)', 'type': 'new_api_error'}, 'id': 'gen-1768877855-g1UGZ1jA29aYbD2vqGGEp6'}"
+  },
+  {
+    "rank": 10,
+    "title": "白鹿睡前听到了唐宫所有的OST",
+    "heat": 342325,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6-0115 分组 (request id: 20260120105735536281365JtiZ24RN)', 'type': 'new_api_error'}, 'id': 'gen-1768877855-urTQrtLBDeEx7ZNUAvZMhu'}"
+  },
+  {
+    "rank": 11,
+    "title": "杭州下雪",
+    "heat": 317034,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6-0115 分组 (request id: 20260120105736109191808d2qhbrBx)', 'type': 'new_api_error'}, 'id': 'gen-1768877856-czTHroy8dbZvk1kNBVf3bY'}"
   },
   {
     "rank": 12,
-    "title": "关晓彤第一次在红毯戴帽子",
-    "heat": 171878,
-    "fun_score": 45,
-    "useful_score": 8,
-    "total_score": 53,
-    "summary": "明星关晓彤在某次红毯活动中首次佩戴帽子亮相，打破其以往造型风格，引发网友关注和讨论。话题聚焦于明星造型突破和时尚搭配。",
+    "title": "A股",
+    "heat": 307280,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
     "has_idea": false,
-    "reason": "总分53分未达到60分阈值。虽然话题具有一定娱乐性和时尚话题度，但创新性和传播深度有限，仅为明星常规造型变化，缺乏足够的产品转化空间。实用价值较低，主要停留在娱乐八卦层面，难以衍生出有持续价值的产品形态。若要产品化需要更深层的时尚痛点挖掘或更广泛的用户需求连接。"
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6-0115 分组 (request id: 20260120105736704718625vufM694A)', 'type': 'new_api_error'}, 'id': 'gen-1768877856-MllbXSkKfvNT2ZagKBAGcO'}"
   },
   {
     "rank": 13,
-    "title": "很爱吃但巨发胖的东西",
-    "heat": 171271,
-    "fun_score": 68,
-    "useful_score": 16,
-    "total_score": 84,
-    "summary": "微博热搜话题聚焦于美食与身材管理的矛盾，用户分享那些美味但高热量的食物。话题引发广泛共鸣，涉及奶茶、炸鸡、火锅等常见高热量美食，体现现代人在口腹之欲与健康管理间的纠结心态。",
-    "has_idea": true,
-    "product": {
-      "name": "罪恶指数",
-      "features": [
-        "扫描或拍照识别食物，显示热量、糖分、脂肪等营养数据",
-        "以趣味化「罪恶值」量化系统呈现发胖程度",
-        "提供「吃了要跑多少公里」等可视化对比",
-        "社区分享功能：晒美食同时展示「罪恶指数」",
-        "个性化建议：如何健康享受高热量食物",
-        "挑战模式：设置热量预算gamification游戏化管理"
-      ],
-      "target_users": [
-        "关注身材管理的年轻人（18-35岁）",
-        "美食爱好者但有减肥需求的群体",
-        "健身爱好者需要精准控制饮食",
-        "喜欢社交分享的吃货群体"
-      ],
-      "description": "用游戏化方式将高热量美食「罪恶化」，让用户在享受美食时清楚代价，同时通过趣味社交降低饮食管理的心理负担。"
-    }
+    "title": "贝克汉姆遭大儿子控诉",
+    "heat": 305777,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6-0115 分组 (request id: 20260120105737270921886eLAlyKNv)', 'type': 'new_api_error'}, 'id': 'gen-1768877857-AZ7wuqK1wJDkeet6imbgLp'}"
   },
   {
     "rank": 14,
-    "title": "李亚鹏前妻力挺嫣然医院",
-    "heat": 170436,
-    "fun_score": 25,
-    "useful_score": 8,
-    "total_score": 33,
-    "summary": "李亚鹏前妻王菲力挺嫣然医院的相关话题登上热搜。嫣然天使基金/医院是李亚鹏创立的公益机构，专注唇腭裂儿童救助。此次事件涉及名人公益、前夫妻关系等多重话题元素。",
+    "title": "王菲十年向嫣然天使捐款三千多万",
+    "heat": 304525,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
     "has_idea": false,
-    "reason": "总分33分未达标准。有趣度偏低（25/80）：虽涉及明星话题有一定关注度，但本质是常规公益支持事件，缺乏创意性和独特性，娱乐性和传播性有限，难以创造新颖用户体验。有用度不足（8/20）：事件本身不涉及具体产品或服务，无法直接解决用户实际问题，实用价值较弱。整体而言，这是一个偏向舆情关注的话题，不适合作为产品创意的基础素材。"
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6-0115 分组 (request id: 20260120105737839413478P3nPWkHv)', 'type': 'new_api_error'}, 'id': 'gen-1768877857-oe8t27zMQ41EA4o2QCrs7G'}"
   },
   {
     "rank": 15,
-    "title": "范丞丞 出庭的时候带上你的破平板",
-    "heat": 169597,
-    "fun_score": 65,
-    "useful_score": 12,
-    "total_score": 77,
-    "summary": "范丞丞疑似涉及法律纠纷需出庭，网友调侃其在综艺节目中常用的破旧平板电脑，建议他出庭时也带上，形成反差萌的梗，引发娱乐话题讨论。",
-    "has_idea": true,
-    "product": {
-      "name": "庭审装备checklist",
-      "features": [
-        "明星出庭装备搭配推荐",
-        "法律场合着装礼仪指南",
-        "庭审用品清单生成器",
-        "搞笑版vs正经版双模式",
-        "明星同款装备推荐"
-      ],
-      "target_users": [
-        "追星族和娱乐八卦爱好者",
-        "需要了解法律场合礼仪的普通用户",
-        "喜欢娱乐梗文化的年轻群体"
-      ],
-      "description": "以娱乐化方式科普法律场合礼仪，结合明星梗制作趣味出庭装备指南，寓教于乐。"
-    }
+    "title": "微博之夜",
+    "heat": 302089,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 403 - {'error': {'code': '', 'message': '无权访问 Claude-O6-0115 分组 (request id: 20260120105738405023286tBMczsMg)', 'type': 'new_api_error'}, 'id': 'gen-1768877858-jDt6RQZDuqku7DgDWmoW5h'}"
   }
 ]
