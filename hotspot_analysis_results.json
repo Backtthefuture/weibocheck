@@ -1,181 +1,56 @@
 [
   {
     "rank": 1,
-    "title": "中国男足等了整整22年",
-    "heat": 1092572,
-    "fun_score": 58,
-    "useful_score": 12,
-    "total_score": 70,
-    "summary": "中国男足时隔22年再次取得某项重要突破或成绩，引发全网关注。这个漫长的等待时间成为话题焦点，球迷情绪复杂，既有期待也有调侃，体现了国人对国足的特殊情感。",
-    "has_idea": true,
-    "product": {
-      "name": "等待值得",
-      "features": [
-        "记录个人/团队长期目标的等待时间轴",
-        "设置里程碑并生成坚持打卡日历",
-        "社区分享等待故事与励志时刻",
-        "AI生成专属等待纪念海报",
-        "数据可视化展示坚持的力量"
-      ],
-      "target_users": [
-        "有长期目标的奋斗者",
-        "球迷及体育爱好者",
-        "需要坚持动力的用户",
-        "热爱记录生活的年轻人"
-      ],
-      "description": "一款将漫长等待转化为成就感的励志应用，让每一天的坚持都被看见，用时间见证梦想实现。"
-    }
+    "title": "杜涛面相都变了",
+    "heat": 1483851,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260121214011176749604xGp6IR9F)', 'type': 'new_api_error'}, 'id': 'gen-1769002811-Fo8QEccVe9ya7UO4BpQWr3'}"
   },
   {
     "rank": 2,
-    "title": "太平年定档",
-    "heat": 782439,
-    "fun_score": 58,
-    "useful_score": 12,
-    "total_score": 70,
-    "summary": "《太平年》疑似为影视剧作品宣布定档，引发观众期待。该类定档话题通常涉及历史、古装或年代剧内容，能激发观众对剧情、演员阵容、制作质量等方面的讨论和关注。",
-    "has_idea": true,
-    "product": {
-      "name": "追剧日历",
-      "features": [
-        "热门影视剧定档提醒与倒计时",
-        "个性化追剧清单管理",
-        "剧集更新推送通知",
-        "观影记录与评分系统",
-        "剧迷社区互动讨论",
-        "演员作品时间轴展示"
-      ],
-      "target_users": [
-        "影视剧爱好者",
-        "追剧重度用户",
-        "古装历史剧粉丝",
-        "需要追剧提醒的上班族"
-      ],
-      "description": "为影视剧爱好者提供定档提醒、追剧管理和观影社区的一站式平台，不错过每一部期待作品。"
-    }
+    "title": "留学生揭穿9层楼积雪骗局",
+    "heat": 895805,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260121214106941420375xIYsMXoX)', 'type': 'new_api_error'}, 'id': 'gen-1769002866-TttENAKJ59EovJjGLQm8OQ'}"
   },
   {
     "rank": 3,
-    "title": "还有不到30天过年",
-    "heat": 654463,
-    "fun_score": 58,
-    "useful_score": 16,
-    "total_score": 74,
-    "summary": "距离春节还有不到30天，这一时间节点引发网友关注和讨论。话题激发了人们对即将到来的春节的期待，涵盖返乡、团聚、年货采购等传统节日准备事项，具有强烈的时间紧迫感和节日氛围。",
-    "has_idea": true,
-    "product": {
-      "name": "春节倒计时管家",
-      "features": [
-        "春节倒计时动态显示，每日推送提醒",
-        "智能待办清单（买票、置办年货、送礼清单等）",
-        "火车票/机票抢票提醒和攻略",
-        "年夜饭菜谱推荐和食材采购清单",
-        "红包预算规划和人情往来记录",
-        "春节习俗科普和各地过年玩法攻略",
-        "家人团聚活动策划建议",
-        "春节期间服务（快递、商超）营业时间查询"
-      ],
-      "target_users": [
-        "需要返乡过年的上班族",
-        "负责置办年货的家庭主力",
-        "第一次独立准备过年的年轻人",
-        "注重仪式感的节日爱好者"
-      ],
-      "description": "一站式春节准备助手，从倒计时到返乡、从年货到团聚，让过年准备井井有条，不错过任何重要事项。"
-    }
+    "title": "2026春运2月2日开始",
+    "heat": 684125,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260121214121260109179sPi1sF8a)', 'type': 'new_api_error'}, 'id': 'gen-1769002881-7rxILUMfxvryLChVqCYjYX'}"
   },
   {
     "rank": 4,
-    "title": "是谁已经领到了爸妈买的保险",
-    "heat": 0,
+    "title": "程序员猝死抢救时曾被拉工作群",
+    "heat": 530812,
     "fun_score": 0,
     "useful_score": 0,
     "total_score": 0,
     "summary": "分析失败",
     "has_idea": false,
     "product": null,
-    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260121105705414600073p66IoxiF)', 'type': 'new_api_error'}, 'id': 'gen-1768964225-QrpCz0M1p1GkXkkBkJUkcr'}"
+    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260121214127535304685W7HbWbG3)', 'type': 'new_api_error'}, 'id': 'gen-1769002887-45LPx2Np0l2R6JWZXvq1n6'}"
   },
   {
     "rank": 5,
-    "title": "U23国足3比0越南U23",
-    "heat": 251117,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260121105713684528210LeqcgEpO)', 'type': 'new_api_error'}, 'id': 'gen-1768964233-PoSOlw0lFbdo4eLZb1eEa3'}"
-  },
-  {
-    "rank": 6,
-    "title": "拳打拜合拉木球员道歉",
-    "heat": 207333,
-    "fun_score": 35,
-    "useful_score": 8,
-    "total_score": 43,
-    "summary": "某体育赛事中，球员在比赛中拳打对手拜合拉木，引发争议和热议。涉事球员随后公开道歉，事件涉及体育道德、暴力行为和职业素养问题，引发网友关注讨论。",
-    "has_idea": false,
-    "product": null,
-    "reason": "总分43分未达到60分标准。该话题属于负面体育冲突事件，虽有一定传播性和话题性（35分有趣度），但娱乐价值有限，且作为暴力冲突事件不适合作为产品创意开发的基础。实用价值方面（8分有用度），仅在体育规则教育和赛事管理层面有微弱价值，但不足以支撑独立产品。此类负面事件更适合作为案例警示，而非商业化产品开发方向，缺乏可持续的正向价值和用户需求支撑。"
-  },
-  {
-    "rank": 7,
-    "title": "这才是真的俩魔丸生了个灵珠",
-    "heat": 206816,
-    "fun_score": 68,
-    "useful_score": 8,
-    "total_score": 76,
-    "summary": "该话题源自《哪吒之魔童降世》梗，指两个调皮捣蛋的孩子（魔丸）生出乖巧懂事的孩子（灵珠），形成反差萌。网友用此形容父母性格与子女性格的反差现象，引发广泛共鸣和讨论。",
-    "has_idea": true,
-    "product": {
-      "name": "反差萌家庭",
-      "features": [
-        "家庭成员性格测试与可视化呈现",
-        "生成个性化的家庭性格反差图谱",
-        "基于动漫梗的趣味亲子关系解读",
-        "家庭故事分享社区",
-        "AI生成专属家庭动画形象",
-        "性格互补型育儿建议推送"
-      ],
-      "target_users": [
-        "年轻父母群体",
-        "二次元文化爱好者",
-        "关注亲子关系的家庭",
-        "喜欢社交分享的用户"
-      ],
-      "description": "基于性格反差的趣味家庭关系记录应用，用动漫化方式呈现家庭成员性格特征，生成可分享的家庭图谱，打造温馨的亲子互动社区。"
-    }
-  },
-  {
-    "rank": 8,
-    "title": "金饰价涨到1495元",
-    "heat": 204130,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260121105738296281714B6YQQ33k)', 'type': 'new_api_error'}, 'id': 'gen-1768964258-7RZkDmkmXtiRuyKAreM805'}"
-  },
-  {
-    "rank": 9,
-    "title": "李秋萍主动求婚被拒绝",
-    "heat": 195264,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 202601211057459438442892W6jkOiz)', 'type': 'new_api_error'}, 'id': 'gen-1768964266-TYt0DmiVG1uOIsZNEhQFfL'}"
-  },
-  {
-    "rank": 10,
-    "title": "导演回应狼王格林是否安好",
-    "heat": 187675,
+    "title": "去有风的地方或将拍第二季",
+    "heat": 252402,
     "fun_score": 0,
     "useful_score": 0,
     "total_score": 0,
@@ -185,78 +60,152 @@
     "reason": "JSON解析失败"
   },
   {
-    "rank": 11,
-    "title": "欧盟决定永久冻结俄罗斯资产",
-    "heat": 153964,
+    "rank": 6,
+    "title": "男子15年为妻女购金现估价超170万",
+    "heat": 243268,
     "fun_score": 0,
     "useful_score": 0,
     "total_score": 0,
     "summary": "分析失败",
     "has_idea": false,
     "product": null,
-    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260121105803521003021PxFU4KRb)', 'type': 'new_api_error'}, 'id': 'gen-1768964283-Qz8MsBMjFWo6aHADufy9t9'}"
+    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260121214148589645395bRBCxiym)', 'type': 'new_api_error'}, 'id': 'gen-1769002908-TvZqgJLhFuegyd2AZSwYrY'}"
   },
   {
-    "rank": 12,
-    "title": "上班是法务下班是偷车厘子惯犯",
-    "heat": 153964,
+    "rank": 7,
+    "title": "HBN首位品牌代言人汪苏泷",
+    "heat": 0,
     "fun_score": 0,
     "useful_score": 0,
     "total_score": 0,
     "summary": "分析失败",
     "has_idea": false,
     "product": null,
-    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260121105810633919192eEKN41SF)', 'type': 'new_api_error'}, 'id': 'gen-1768964290-iNHJSz9NbF44H2yORO4u3o'}"
+    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260121214154913101519rdIVXo13)', 'type': 'new_api_error'}, 'id': 'gen-1769002914-JvIRyFwSgTWqdjyQm8ibpG'}"
   },
   {
-    "rank": 13,
-    "title": "卢昱晓回应跪下和粉丝合照",
-    "heat": 153961,
+    "rank": 8,
+    "title": "威海海边冻住了",
+    "heat": 236286,
     "fun_score": 0,
     "useful_score": 0,
     "total_score": 0,
     "summary": "分析失败",
     "has_idea": false,
     "product": null,
-    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260121105816890669385peAsrRHs)', 'type': 'new_api_error'}, 'id': 'gen-1768964296-3syu6NIj3AzcKjo6COunNm'}"
+    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260121214203331202246wT3bNq0u)', 'type': 'new_api_error'}, 'id': 'gen-1769002923-93Z5DgT44AS7poCECSIVpa'}"
   },
   {
-    "rank": 14,
-    "title": "马龙在飞机上第一次看到极光",
-    "heat": 153958,
-    "fun_score": 62,
-    "useful_score": 14,
-    "total_score": 76,
-    "summary": "国乒名将马龙在飞机上首次目睹极光美景，分享了这一难得的自然奇观体验。作为公众人物的日常生活片段，引发网友对极光观赏和高空旅行体验的关注与讨论。",
+    "rank": 9,
+    "title": "剑来",
+    "heat": 206013,
+    "fun_score": 68,
+    "useful_score": 12,
+    "total_score": 80,
+    "summary": "《剑来》是烽火戏诸侯创作的网络玄幻小说，讲述少年陈平安持剑闯荡江湖的故事。该话题可能与小说改编影视剧、动画上线、作者新动态或粉丝讨论相关，在二次元及网文圈层引发热议。",
     "has_idea": true,
     "product": {
-      "name": "极光追踪·空中观景助手",
+      "name": "剑来·修行手札",
       "features": [
-        "实时极光预测：基于地磁数据和航班路线，预测机上观测极光概率",
-        "航班推荐系统：筛选高极光可见度的航线和座位",
-        "AR观景指南：通过手机AR标注极光最佳观测方向和科普知识",
-        "社区分享平台：乘客分享空中极光照片和体验攻略",
-        "提醒通知服务：飞行中实时推送极光出现预警"
+        "沉浸式武侠修行打卡系统",
+        "每日「剑道心得」语录推送",
+        "虚拟剑修身份成长体系",
+        "书友社区互动与角色扮演",
+        "AR实景「御剑」拍照特效"
       ],
       "target_users": [
-        "频繁乘坐高纬度航线的商务旅客",
-        "极光爱好者和自然摄影师",
-        "追求独特旅行体验的年轻群体",
-        "航空公司寻求增值服务的合作方"
+        "《剑来》书粉及网文爱好者",
+        "武侠仙侠文化爱好者",
+        "喜欢角色扮演的年轻用户",
+        "二次元及国风文化群体"
       ],
-      "description": "结合航班数据与极光预测的智能工具，帮助旅客捕捉空中观赏极光的珍贵机会，提升飞行体验价值。"
+      "description": "以《剑来》世界观为基础的沉浸式修行社区，用户化身剑修，通过日常打卡积累「修为」，解锁原著名场面，与书友共创江湖故事。"
     }
   },
   {
-    "rank": 15,
-    "title": "贝克汉姆回应大儿子控诉",
-    "heat": 153955,
+    "rank": 10,
+    "title": "年代剧终于有正常婆婆了",
+    "heat": 188467,
     "fun_score": 0,
     "useful_score": 0,
     "total_score": 0,
     "summary": "分析失败",
     "has_idea": false,
     "product": null,
-    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260121105834873243673RSyORo7K)', 'type': 'new_api_error'}, 'id': 'gen-1768964314-OewwQioK12AI0SRoG0iATn'}"
+    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260121214213252597009t9Njibcq)', 'type': 'new_api_error'}, 'id': 'gen-1769002933-hwDNjjdzGMxtnSjOET793G'}"
+  },
+  {
+    "rank": 11,
+    "title": "32岁程序员周末晕倒后猝死",
+    "heat": 184410,
+    "fun_score": 15,
+    "useful_score": 18,
+    "total_score": 33,
+    "summary": "32岁程序员周末加班或高强度工作后突然晕倒猝死，引发公众对互联网行业加班文化、职场健康问题的广泛关注和讨论，再次敲响年轻人过劳死的警钟。",
+    "has_idea": false,
+    "reason": "该话题涉及严肃的生命健康和社会问题，不适合从'有趣'角度开发产品。虽然健康监测类产品有实用价值，但基于猝死悲剧事件做产品创意存在伦理问题，容易引发负面舆论。此类话题应聚焦于社会反思、劳动权益保护和健康意识提升，而非商业化产品开发。建议关注已有的健康管理、工时监控等成熟解决方案，而非将悲剧事件作为产品灵感来源。"
+  },
+  {
+    "rank": 12,
+    "title": "赖冠霖回应退圈",
+    "heat": 182689,
+    "fun_score": 35,
+    "useful_score": 8,
+    "total_score": 43,
+    "summary": "艺人赖冠霖就退圈传闻进行公开回应，引发粉丝和网友关注讨论。此类娱乐圈动态属于常规明星新闻，涉及艺人职业规划和粉丝情感维系话题。",
+    "has_idea": false,
+    "product": null,
+    "reason": "总分43分未达到60分阈值。该话题属于典型的娱乐圈人事新闻，虽然对特定粉丝群体有情感价值，但新颖性和创意空间有限。有趣度方面：话题较为常规，类似事件频繁出现，传播主要依赖粉丝经济，对大众吸引力一般，缺乏独特的互动性和娱乐创新点。有用度方面：不解决实际问题，无实用价值，仅为信息告知，不提供工具性或服务性功能。基于明星个人动态的产品创意难以形成可持续的商业模式，且受众局限于特定粉丝圈层，市场普适性不足。"
+  },
+  {
+    "rank": 13,
+    "title": "王鹤棣 我是王嘉尔",
+    "heat": 179527,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 202601212142423094998707IM7yuXb)', 'type': 'new_api_error'}, 'id': 'gen-1769002962-HrR4KjtMwL3DGKqzkNw430'}"
+  },
+  {
+    "rank": 14,
+    "title": "拼多多受到处罚",
+    "heat": 178024,
+    "fun_score": 35,
+    "useful_score": 15,
+    "total_score": 50,
+    "summary": "拼多多因违反相关规定受到监管部门处罚，此事件引发公众对电商平台合规经营的关注和讨论，涉及消费者权益保护、平台责任等话题，具有一定的社会关注度和话题性。",
+    "has_idea": false,
+    "reason": "总分50分未达到60分阈值。虽然话题具有一定的社会关注度，但作为负面处罚事件，娱乐性和创意空间有限，不适合直接开发趣味性产品。有用度方面，虽然涉及消费者权益保护这一实用领域，但单一处罚事件本身缺乏足够的产品化延展性。该话题更适合作为新闻资讯或监督类内容，而非独立产品创意的基础。若要产品化，需要扩展到更广泛的电商监督、消费者维权工具等方向，但这已超出单一热搜话题的范畴。"
+  },
+  {
+    "rank": 15,
+    "title": "邓超 我能签鹿晗的签名照吗",
+    "heat": 175567,
+    "fun_score": 65,
+    "useful_score": 12,
+    "total_score": 77,
+    "summary": "邓超在某场合幽默提问能否在鹿晗的签名照上签名，展现了明星间的轻松互动。这个反常规的请求打破了传统粉丝文化逻辑，引发网友对明星关系、签名文化的趣味讨论，体现了娱乐圈的人情味和反差萌。",
+    "has_idea": true,
+    "product": {
+      "name": "星签连连",
+      "features": [
+        "明星互签虚拟签名照生成",
+        "粉丝自定义多明星联名签名",
+        "AR签名收藏展示墙",
+        "签名故事社区分享",
+        "签名真伪区块链认证",
+        "明星互动话题挑战"
+      ],
+      "target_users": [
+        "追星族和粉丝群体",
+        "收集签名的爱好者",
+        "娱乐内容创作者",
+        "喜欢明星互动梗的年轻用户"
+      ],
+      "description": "让粉丝创造梦幻联动，生成多位明星互签的虚拟签名照，用AR技术打造个性化数字收藏，分享独特的追星创意。"
+    }
   }
 ]
