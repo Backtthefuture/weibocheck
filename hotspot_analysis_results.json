@@ -1,165 +1,122 @@
 [
   {
     "rank": 1,
-    "title": "惊蛰无声定档",
-    "heat": 1262284,
+    "title": "母亲在柬埔寨寻子儿子在园区诈骗",
+    "heat": 1036720,
     "fun_score": 0,
     "useful_score": 0,
     "total_score": 0,
     "summary": "分析失败",
     "has_idea": false,
     "product": null,
-    "reason": "JSON解析失败"
+    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 202601222141342584983500AvpDLXC)', 'type': 'new_api_error'}, 'id': 'gen-1769089294-2GZ9M6TAis1SASQslkkoJw'}"
   },
   {
     "rank": 2,
-    "title": "考研失败情侣辞职回村7年后翻盘",
-    "heat": 887333,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 2026012211014694778899394LVWsqn)', 'type': 'new_api_error'}, 'id': 'gen-1769050907-Y0CfxEJzIEiR3ip4Cz8mbc'}"
-  },
-  {
-    "rank": 3,
-    "title": "数读工业和信息化发展新成效",
-    "heat": 717019,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 202601221101533048614471oQrFwJW)', 'type': 'new_api_error'}, 'id': 'gen-1769050913-YR32Z6Y03M2MbnAf1HrdBP'}"
-  },
-  {
-    "rank": 4,
-    "title": "程序员猝死当天5次访问公司OA系统",
-    "heat": 681816,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 2026012211015919175752SQPRViQl)', 'type': 'new_api_error'}, 'id': 'gen-1769050919-F19Ll9AxPLLDPttzaqNhna'}"
-  },
-  {
-    "rank": 5,
-    "title": "嫁金钗阵容官宣",
-    "heat": 645258,
-    "fun_score": 58,
-    "useful_score": 12,
-    "total_score": 70,
-    "summary": "《嫁金钗》疑似为古装影视剧项目，官方宣布演员阵容，引发粉丝关注和讨论。此类阵容官宣通常伴随选角话题、CP组合、服化道预测等娱乐讨论，是影视宣发的重要节点。",
+    "title": "生命树",
+    "heat": 773064,
+    "fun_score": 65,
+    "useful_score": 16,
+    "total_score": 81,
+    "summary": "「生命树」概念涵盖生物进化树、神话象征、电影艺术等多重意义。话题具有深刻的哲学内涵和视觉美感，能激发用户对生命起源、个人成长和家族传承的思考与探索兴趣。",
     "has_idea": true,
     "product": {
-      "name": "追剧联盟",
+      "name": "生命树·家族记忆",
       "features": [
-        "影视项目阵容追踪与提醒功能",
-        "演员作品时间轴与角色档案",
-        "粉丝社区互动与CP配对投票",
-        "剧集开播倒计时与物料聚合",
-        "AI智能推荐相似阵容作品"
+        "可视化家族谱系树生成，支持多代关系展示",
+        "每个节点可添加照片、故事、音频等多媒体记忆",
+        "AI生成家族故事串联和重要事件时间轴",
+        "AR互动体验，扫描实体树木即可展示家族树",
+        "生命里程碑记录，包括出生、成长、成就等关键节点",
+        "基因健康树，关联遗传健康信息提供预警"
       ],
       "target_users": [
-        "影视剧粉丝群体",
-        "追星族",
-        "娱乐内容消费者",
-        "剧集爱好者"
+        "重视家族传承的中老年用户",
+        "想了解家族历史的年轻一代",
+        "进行家谱整理的家族代表",
+        "注重亲子教育的父母群体"
       ],
-      "description": "专为影视爱好者打造的追剧社区平台，聚合项目动态、演员信息，提供一站式追剧体验和粉丝互动空间。"
+      "description": "将家族历史可视化为生命树，用科技保存记忆，让每个家庭都有自己的数字传承档案。"
     }
   },
   {
-    "rank": 6,
-    "title": "今年最烂大街的穿搭",
-    "heat": 484162,
+    "rank": 3,
+    "title": "这才是文化遗产最好的打开方式",
+    "heat": 738076,
     "fun_score": 0,
     "useful_score": 0,
     "total_score": 0,
     "summary": "分析失败",
     "has_idea": false,
     "product": null,
-    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 202601221102139185907SCVHMcrQ)', 'type': 'new_api_error'}, 'id': 'gen-1769050933-J0x38zZUL6ZOJ2ST3RNzdB'}"
+    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260122214150827412888hlnlKMuH)', 'type': 'new_api_error'}, 'id': 'gen-1769089310-YPulWmXzgRmb7G559Qb2Nq'}"
+  },
+  {
+    "rank": 4,
+    "title": "和肖战一起马年向更高",
+    "heat": 0,
+    "fun_score": 58,
+    "useful_score": 12,
+    "total_score": 70,
+    "summary": "2025年是马年，明星肖战的粉丝营销话题，结合生肖年份与明星IP，号召粉丝在新年共同设定目标、追求进步。属于典型的粉丝应援与新年祝福结合的营销活动，具有一定传播性和参与度。",
+    "has_idea": true,
+    "product": {
+      "name": "星愿历·生肖目标打卡",
+      "features": [
+        "生肖年份主题目标设定与可视化展示",
+        "明星IP联名激励语音与每日打卡",
+        "粉丝社群共同目标挑战排行榜",
+        "个性化成长数据报告与年度回顾",
+        "AR虚拟合影与生肖主题勋章系统"
+      ],
+      "target_users": [
+        "明星粉丝群体（18-35岁女性为主）",
+        "追求自我提升的年轻人",
+        "喜欢设定目标并需要激励的用户",
+        "对生肖文化感兴趣的群体"
+      ],
+      "description": "结合明星IP与生肖文化的目标管理App，通过偶像激励、社群打卡、游戏化勋章等方式，让用户在新年设定并坚持实现个人目标。"
+    }
+  },
+  {
+    "rank": 5,
+    "title": "肯德基崩了",
+    "heat": 737216,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 202601222142065699090931iPDCkwP)', 'type': 'new_api_error'}, 'id': 'gen-1769089326-btkwoDKUOF2XjB5F3aeEtJ'}"
+  },
+  {
+    "rank": 6,
+    "title": "重返狼群 拖欠稿费",
+    "heat": 735264,
+    "fun_score": 42,
+    "useful_score": 16,
+    "total_score": 58,
+    "summary": "知名纪实作品《重返狼群》作者李微漪疑似卷入稿费拖欠纠纷，引发公众对创作者权益保护的关注和讨论，反映出文化出版行业长期存在的版权和报酬争议问题。",
+    "has_idea": false,
+    "reason": "总分58分未达到60分阈值。虽然话题涉及创作者权益保护这一实用领域（有用度较高），但事件本身是负面纠纷，缺乏足够的娱乐性和传播创意性。话题更适合用于维权工具或行业规范建设，而非面向大众的创意产品。若开发维权平台或合同管理工具，需要更系统的行业痛点分析而非单一热点事件驱动。此类严肃的法律经济纠纷话题，在转化为产品时容易显得功利或不够尊重当事人，品牌风险较高。"
   },
   {
     "rank": 7,
-    "title": "邓为SABON亚太区品牌代言人",
-    "heat": 0,
-    "fun_score": 25,
-    "useful_score": 8,
-    "total_score": 33,
-    "summary": "演员邓为成为以色列身体护理品牌SABON的亚太区品牌代言人，这是一则常规的明星代言商业合作资讯，属于娱乐营销领域的日常动态。",
+    "title": "一超市金车厘子一箱2800元",
+    "heat": 614393,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
     "has_idea": false,
-    "reason": "总分33分未达标。这是典型的明星代言商业合作公告，创意空间有限。有趣度方面：仅对邓为粉丝和SABON用户有一定吸引力，话题本身缺乏新颖性和创意突破点，传播范围局限于粉丝圈层和美妆护理垂直领域，难以引发大众广泛好奇心；有用度方面：对普通用户实用价值较低，主要是品牌营销信息，不能解决实际问题或提供独特便利。作为常规商业代言事件，缺乏足够的产品创意延展空间和用户价值创造点。"
+    "product": null,
+    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260122214220908238403tZEiqIW5)', 'type': 'new_api_error'}, 'id': 'gen-1769089340-mDIrJsDFtf6VWdrVeP7wis'}"
   },
   {
     "rank": 8,
-    "title": "张艺谋拍的杨幂刘诗诗",
-    "heat": 428245,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260122110227728430381KbLpd3Zs)', 'type': 'new_api_error'}, 'id': 'gen-1769050947-4sFQCBDLhsf63NyNsxz62a'}"
-  },
-  {
-    "rank": 9,
-    "title": "永辉超市胖改第二年预亏21亿",
-    "heat": 349532,
-    "fun_score": 25,
-    "useful_score": 8,
-    "total_score": 33,
-    "summary": "永辉超市进行「胖东来式改革」第二年，预计亏损21亿元。这反映出零售企业转型的艰难，胖东来模式并非简单复制即可成功，引发业界对零售变革的深度思考。",
-    "has_idea": false,
-    "reason": "总分33分未达到60分阈值。该话题虽具有一定的行业关注度，但从产品创意角度看：1）有趣度较低（25分）：企业亏损属于常规商业新闻，缺乏新颖性和娱乐传播性，难以激发用户参与欲和好奇心；2）有用度较低（8分）：话题偏向财经资讯，对普通消费者实用价值有限，主要受众为投资者和行业从业者；3）创意空间受限：企业经营困境的严肃性限制了趣味化产品设计的可能性，且涉及具体企业负面信息，产品化风险较高。更适合作为商业案例分析或行业研究素材，而非面向大众的创意产品方向。"
-  },
-  {
-    "rank": 10,
-    "title": "程序员猝死后8小时仍有工作消息",
-    "heat": 343902,
-    "fun_score": 25,
-    "useful_score": 18,
-    "total_score": 43,
-    "summary": "该话题反映程序员因长期过度加班导致猝死的悲剧，死后8小时仍收到工作消息，揭示了互联网行业严重的加班文化和职场健康危机，引发公众对996工作制度和职场生命权的关注与反思。",
-    "has_idea": false,
-    "product": null,
-    "reason": "虽然话题具有较高社会价值和实用性（揭示职场健康问题），但作为产品创意来源存在明显不足：1）话题本质是悲剧性社会事件，缺乏娱乐性和传播的正向价值；2）过于沉重严肃，不适合作为产品创意的切入点；3）直接基于此开发产品可能引发道德争议；4）话题更适合用于公益倡导、政策推动等社会层面的改变，而非商业产品开发。建议关注职场健康管理、工作生活平衡等相关领域，但需以更积极的角度切入。"
-  },
-  {
-    "rank": 11,
-    "title": "普京就格陵兰岛表态",
-    "heat": 337966,
-    "fun_score": 35,
-    "useful_score": 8,
-    "total_score": 43,
-    "summary": "普京针对美国前总统特朗普关于格陵兰岛的言论发表表态，涉及国际政治和领土主权问题。该话题属于严肃的国际关系事件，引发公众对地缘政治的关注和讨论。",
-    "has_idea": false,
-    "product": null,
-    "reason": "总分43分未达到60分阈值。该话题属于严肃的国际政治事件，虽有一定关注度，但缺乏产品化的可行性。原因：1）有趣度方面：话题偏严肃政治性，娱乐性和创意空间有限，难以转化为轻松有趣的用户体验；2）有用度方面：普通用户难以从中获得实用价值或解决实际问题，更多是新闻资讯层面的关注；3）产品转化难度：地缘政治话题敏感性高，不适合开发娱乐或工具类产品，商业化空间狭窄。此类话题更适合作为新闻媒体内容，而非独立产品创意来源。"
-  },
-  {
-    "rank": 12,
-    "title": "惊蛰无声",
-    "heat": 337849,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260122110258155911363QcsOEknX)', 'type': 'new_api_error'}, 'id': 'gen-1769050978-sT5eNtYOg6MaCQQwCFt072'}"
-  },
-  {
-    "rank": 13,
-    "title": "昀牵孟绕就这么亲上了",
-    "heat": 337386,
+    "title": "赵丽颖认养一头牛品牌代言人",
+    "heat": 0,
     "fun_score": 0,
     "useful_score": 0,
     "total_score": 0,
@@ -169,43 +126,86 @@
     "reason": "JSON解析失败"
   },
   {
-    "rank": 14,
-    "title": "苹果推出新春优惠",
-    "heat": 273460,
+    "rank": 9,
+    "title": "突然的喜欢",
+    "heat": 227938,
     "fun_score": 0,
     "useful_score": 0,
     "total_score": 0,
     "summary": "分析失败",
     "has_idea": false,
     "product": null,
-    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260122110313531283838qOgy0fou)', 'type': 'new_api_error'}, 'id': 'gen-1769050993-en5FlAUcrS4vAb384pkaRy'}"
+    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260122214234860072572qhJA7TW9)', 'type': 'new_api_error'}, 'id': 'gen-1769089354-ZQHYWXTAnvf4jlG0qpEvkv'}"
+  },
+  {
+    "rank": 10,
+    "title": "卖霉豆腐已经有人实操上了",
+    "heat": 208403,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "JSON解析失败"
+  },
+  {
+    "rank": 11,
+    "title": "甲亢哥才21岁",
+    "heat": 207808,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260122214249722496919YHJTgSqh)', 'type': 'new_api_error'}, 'id': 'gen-1769089369-ZlYPe9KCaA3bEzxz57KzE5'}"
+  },
+  {
+    "rank": 12,
+    "title": "预制菜这几个关键问题需进一步厘清",
+    "heat": 205407,
+    "fun_score": 35,
+    "useful_score": 18,
+    "total_score": 53,
+    "summary": "预制菜行业快速发展引发关注，公众对预制菜的定义标准、食品安全标识、营养保留、价格透明度等核心问题存在疑虑，呼吁监管部门明确行业规范，保障消费者知情权和选择权。",
+    "has_idea": false,
+    "reason": "总分53分未达标。虽然话题具有较高实用价值（解决食品安全、消费透明等实际问题），但有趣度偏低：该话题属于严肃的监管政策类讨论，缺乏新颖性和娱乐传播性，主要围绕行业规范、标准制定等专业领域展开，难以激发普通用户的好奇心和参与热情，用户体验创新空间有限，更适合作为公共政策倡导而非趣味产品开发方向。"
+  },
+  {
+    "rank": 13,
+    "title": "韩国国旗 车银优",
+    "heat": 201409,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260122214302733664330vXZKeWFG)', 'type': 'new_api_error'}, 'id': 'gen-1769089382-nafqQYjYg06cmUoWxL6Pn7'}"
+  },
+  {
+    "rank": 14,
+    "title": "杨幂穿Prada的女王",
+    "heat": 198608,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260122214309125210509yYZ2kjUu)', 'type': 'new_api_error'}, 'id': 'gen-1769089389-jMEyovy3Y1yzc5oJTkju6T'}"
   },
   {
     "rank": 15,
-    "title": "杨幂惊蛰无声镜头",
-    "heat": 265950,
-    "fun_score": 58,
-    "useful_score": 8,
-    "total_score": 66,
-    "summary": "杨幂在电视剧《惊蛰》中展现无声演技片段引发热议。通过纯肢体语言和面部表情传递情绪，展示演员台词之外的表演功力，引发网友对影视表演艺术和无声表达方式的关注与讨论。",
-    "has_idea": true,
-    "product": {
-      "name": "无声演技学院",
-      "features": [
-        "AI面部表情识别与评分系统",
-        "无声表演教学视频库",
-        "肢体语言动作分解训练",
-        "情绪传达挑战游戏",
-        "明星演技片段对比学习",
-        "用户上传作品社区互评"
-      ],
-      "target_users": [
-        "影视表演爱好者",
-        "艺考生及表演专业学生",
-        "短视频创作者",
-        "想提升非语言沟通能力的职场人士"
-      ],
-      "description": "通过AI技术和游戏化训练，帮助用户学习和提升无声表演能力，掌握肢体语言与面部表情的情绪传达技巧。"
-    }
+    "title": "猝死程序员日记写努力努力再努力",
+    "heat": 197266,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 401 - {'error': {'code': '', 'message': '未提供令牌 (request id: 20260122214314932270615JDVF5Tho)', 'type': 'new_api_error'}, 'id': 'gen-1769089394-eCPKYYBnU4cAYJMVRud3mz'}"
   }
 ]
