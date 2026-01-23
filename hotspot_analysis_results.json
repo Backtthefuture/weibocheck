@@ -1,180 +1,268 @@
 [
   {
     "rank": 1,
-    "title": "中国飞船预售票一张300万",
-    "heat": 1073767,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 500 - {'error': {'message': 'InvokeModel: operation error Bedrock Runtime: InvokeModel, https response error StatusCode: 403, RequestID: b3bd1979-d62f-4337-af5a-b03d480dceb1, api error UnrecognizedClientException: The security token included in the request is invalid. (request id: 20260123105641997448432OH29lIP3)', 'type': 'aws_invoke_error'}, 'id': 'gen-1769137002-Z6kbFnF72IbrVidil5hMvS', 'type': 'error'}"
+    "title": "国足赢一场就回家",
+    "heat": 1052024,
+    "fun_score": 68,
+    "useful_score": 12,
+    "total_score": 80,
+    "summary": "国足在某赛事中赢下一场比赛后即被淘汰出局，网友用'赢一场就回家'调侃国足战绩不佳的现状，话题引发大量讨论和自嘲式传播，体现球迷对国足的复杂情感。",
+    "has_idea": true,
+    "product": {
+      "name": "国足加油站",
+      "features": [
+        "国足比赛实时战绩追踪与趣味吐槽弹幕",
+        "球迷情绪日记记录，生成'陪伴证明'",
+        "历届国足经典瞬间回顾与表情包生成器",
+        "球迷社区互动，预测比赛结果赢徽章",
+        "国足知识问答与足球文化科普"
+      ],
+      "target_users": [
+        "中国足球球迷",
+        "体育话题关注者",
+        "喜欢体育梗文化的年轻群体"
+      ],
+      "description": "一个集吐槽、陪伴、互动于一体的国足球迷社区APP，让球迷在调侃中释放情绪，在陪伴中保持热爱。"
+    }
   },
   {
     "rank": 2,
-    "title": "大疆pocket4发布时间",
-    "heat": 771855,
-    "fun_score": 45,
-    "useful_score": 12,
-    "total_score": 57,
-    "summary": "大疆Pocket 4口袋相机发布时间成为热搜话题，消费者对新一代便携稳定器相机的规格、功能升级和上市时间充满期待，反映出数码爱好者和内容创作者对专业拍摄设备的持续关注。",
-    "has_idea": false,
-    "reason": "总分57分未达到60分阈值。虽然话题有一定热度，但主要是产品发布时间的信息关注，缺乏足够的创意延展空间。有趣度方面：作为硬件产品发布预告，话题本身较为常规，娱乐性和互动性有限，主要吸引垂直领域用户；有用度方面：对潜在购买者有一定参考价值，但仅限于时间信息，实用性较为单一。若要开发产品创意，需要更具体的产品功能特性或用户痛点作为切入点，单纯的发布时间话题难以支撑有深度的产品创新方向。"
+    "title": "太平年",
+    "heat": 784679,
+    "fun_score": 65,
+    "useful_score": 15,
+    "total_score": 80,
+    "summary": "「太平年」话题可能与传统文化、新年祝福或特定历史文化内涵相关，具有浓厚的中国传统文化色彩和美好寓意，容易引发用户的情感共鸣和文化认同。",
+    "has_idea": true,
+    "product": {
+      "name": "太平年历",
+      "features": [
+        "传统黄历与现代日历结合",
+        "每日吉祥寓意推送",
+        "传统文化知识科普",
+        "个性化祝福语生成",
+        "复古视觉设计风格",
+        "节日文化互动游戏"
+      ],
+      "target_users": [
+        "传统文化爱好者",
+        "25-45岁都市白领",
+        "注重仪式感的年轻人",
+        "长辈礼物需求者"
+      ],
+      "description": "融合传统黄历智慧与现代美学的文化日历应用，每日提供吉祥寓意、传统知识和美好祝愿，让用户感受太平盛世的文化韵味。"
+    }
   },
   {
     "rank": 3,
-    "title": "2025年我国农业现代化水平持续提升",
-    "heat": 615696,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
+    "title": "新国补到底怎么补",
+    "heat": 593753,
+    "fun_score": 35,
+    "useful_score": 18,
+    "total_score": 53,
+    "summary": "新国补政策引发热议，民众关注补贴标准、申请流程、覆盖范围等细节。话题涉及新能源汽车、家电以旧换新等领域的国家补贴政策调整，用户迫切想了解如何获取补贴及具体金额。",
     "has_idea": false,
-    "product": null,
-    "reason": "Error code: 500 - {'error': {'message': 'InvokeModel: operation error Bedrock Runtime: InvokeModel, https response error StatusCode: 403, RequestID: e2854c6f-4585-4092-baa7-0a3f2855d206, api error UnrecognizedClientException: The security token included in the request is invalid. (request id: 20260123105658570249561Iwx1UxVk)', 'type': 'aws_invoke_error'}, 'id': 'gen-1769137018-0hubhrpODf7RSM9hdMzrpQ', 'type': 'error'}"
+    "reason": "总分53分未达标。虽然话题实用性强（解决补贴申请痛点），但有趣度偏低：属于严肃政策解读类话题，缺乏娱乐性和创意性；传播主要依赖实用价值而非趣味性；用户参与多为信息获取而非互动体验。政策科普类产品同质化严重，难以形成独特产品差异化。建议结合游戏化、可视化等元素提升趣味性后再开发产品。"
   },
   {
     "rank": 4,
-    "title": "女子被一次性拔牙12颗后心梗休克",
-    "heat": 201173,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
+    "title": "王鹤棣依偎在白鹿肩上",
+    "heat": 266643,
+    "fun_score": 45,
+    "useful_score": 8,
+    "total_score": 53,
+    "summary": "演员王鹤棣和白鹿疑似在拍摄现场或活动中的亲密互动画面引发关注，CP粉和观众讨论其荧幕化学反应，属于典型的娱乐八卦热搜话题。",
     "has_idea": false,
-    "product": null,
-    "reason": "Error code: 500 - {'error': {'message': 'InvokeModel: operation error Bedrock Runtime: InvokeModel, https response error StatusCode: 403, RequestID: 325771be-e2ef-40f4-9a4d-2c04f11b21da, api error UnrecognizedClientException: The security token included in the request is invalid. (request id: 20260123105707920863368QUYoGvGm)', 'type': 'aws_invoke_error'}, 'id': 'gen-1769137028-pYINO7IS2O2CVxiaws6DIr', 'type': 'error'}"
+    "reason": "总分53分未达到60分阈值。该话题虽具有一定娱乐性和传播性（明星CP互动天然吸引粉丝关注），但新颖度和创意度有限，属于常规娱乐营销套路。有用度方面，此类话题主要满足娱乐消遣需求，缺乏实际应用价值和问题解决能力。话题本质是明星互动衍生的流量话题，难以转化为具有持续价值的产品创意，更适合短期内容消费而非产品开发。"
   },
   {
     "rank": 5,
-    "title": "女子用开水浇他人车玻璃测试会否炸裂",
-    "heat": 165113,
-    "fun_score": 45,
+    "title": "尘白禁区",
+    "heat": 199057,
+    "fun_score": 58,
     "useful_score": 12,
-    "total_score": 57,
-    "summary": "一女子为测试车玻璃是否会因温差炸裂，用开水浇在他人车辆玻璃上进行实验，引发网络热议。该事件涉及冬季用车常识、科学实验方法及财产安全问题，体现了公众对冬季汽车养护知识的关注与误区。",
-    "has_idea": false,
-    "reason": "总分57分，未达到60分阈值。虽然话题本身具有一定的争议性和传播性（涉及冬季用车常识、实验精神等），能引发用户关注和讨论，但其核心行为带有破坏性和不当性，不适合作为正面产品创意的基础。话题的有趣度受限于其负面性质（损害他人财产），而有用度方面虽涉及汽车养护知识科普，但以破坏性实验为载体的形式不具备可推广性。若要开发相关产品，需要转换为合法、正向的知识科普或汽车养护工具方向，但这与原话题关联度较弱，缺乏直接的创意转化价值。"
+    "total_score": 70,
+    "summary": "《尘白禁区》是库洛科技开发的科幻射击RPG手游，以末世废土为背景。本次热搜可能与游戏版本更新、新角色上线、联动活动或玩家社区热议内容相关，吸引大量二次元及射击游戏爱好者关注。",
+    "has_idea": true,
+    "product": {
+      "name": "废土战术模拟器",
+      "features": [
+        "末世场景AR互动体验，将现实环境转化为游戏废土场景",
+        "角色养成智能助手，提供最优配队和资源规划方案",
+        "玩家社区UGC创作平台，支持自定义关卡和剧情分享",
+        "语音实时战术指挥系统，模拟真实指挥官体验",
+        "跨游戏战斗数据分析工具"
+      ],
+      "target_users": [
+        "《尘白禁区》玩家群体",
+        "科幻射击游戏爱好者",
+        "二次元文化爱好者",
+        "喜欢策略养成的手游玩家",
+        "游戏内容创作者"
+      ],
+      "description": "结合AR技术与AI算法的游戏增强工具，为玩家提供沉浸式废土体验和智能战术辅助，打造游戏衍生互动社区生态。"
+    }
   },
   {
     "rank": 6,
-    "title": "泡泡玛特电子木鱼爆火",
-    "heat": 160644,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
+    "title": "亲爱的客栈",
+    "heat": 198021,
+    "fun_score": 45,
+    "useful_score": 12,
+    "total_score": 57,
+    "summary": "《亲爱的客栈》是一档明星经营体验类综艺节目，嘉宾共同经营客栈，展现真实的经营日常和人际互动。话题可能因新一季播出或嘉宾动态引发关注。",
     "has_idea": false,
-    "product": null,
-    "reason": "Error code: 500 - {'error': {'message': 'InvokeModel: operation error Bedrock Runtime: InvokeModel, https response error StatusCode: 403, RequestID: 032f72c3-50c0-43a4-819c-3fc370c4fc08, api error UnrecognizedClientException: The security token included in the request is invalid. (request id: 20260123105727640342447H2Y0frre)', 'type': 'aws_invoke_error'}, 'id': 'gen-1769137047-0C4VfJkSMSrkWVPzOLoshX', 'type': 'error'}"
+    "reason": "总分57分未达到60分阈值。虽然综艺话题具有一定娱乐性和传播性，但缺乏足够的创新点和实用价值。类似的民宿经营、旅行体验类产品已较为成熟，基于该话题的产品创意差异化不足，难以形成独特竞争力。若要开发相关产品，需要更具体的用户痛点或创新场景支撑。"
   },
   {
     "rank": 7,
-    "title": "米兰冬奥运动员公示",
-    "heat": 145285,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
+    "title": "操纵67个账户被罚没超10亿",
+    "heat": 196647,
+    "fun_score": 25,
+    "useful_score": 15,
+    "total_score": 40,
+    "summary": "某主体利用67个账户操纵证券市场，被监管部门罚没超10亿元。该案涉及金额巨大，反映金融市场违法成本和监管力度，引发公众对市场公平性、账户安全及金融监管的关注。",
     "has_idea": false,
-    "product": null,
-    "reason": "Error code: 500 - {'error': {'message': 'InvokeModel: operation error Bedrock Runtime: InvokeModel, https response error StatusCode: 403, RequestID: 5817a677-893e-4fbb-b691-dc6fae84c466, api error UnrecognizedClientException: The security token included in the request is invalid. (request id: 2026012310573328289609541sZpcwW)', 'type': 'aws_invoke_error'}, 'id': 'gen-1769137053-upIJN04luHs51Z0le5wypG', 'type': 'error'}"
+    "reason": "该话题属于严肃的金融违法案件，虽具有一定社会教育意义，但娱乐性和创意空间有限。话题本身偏向负面事件报道，缺乏轻松有趣的切入点，难以转化为吸引用户主动参与的产品创意。实用性方面虽可延伸至投资者教育或风险提示，但直接产品化的可行性不高，且需避免消费负面事件。总分40分未达到产品创意开发阈值。"
   },
   {
     "rank": 8,
-    "title": "哥哥回应失踪13年女硕士现状",
-    "heat": 136496,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 500 - {'error': {'message': 'InvokeModel: operation error Bedrock Runtime: InvokeModel, https response error StatusCode: 403, RequestID: 9e80042f-40a7-405c-a3b8-99a32037a2ad, api error UnrecognizedClientException: The security token included in the request is invalid. (request id: 20260123105738879367894eWFKaZ71)', 'type': 'aws_invoke_error'}, 'id': 'gen-1769137059-I40K6m6X6UG4HaROuFUE8x', 'type': 'error'}"
+    "title": "u23国足决赛加油",
+    "heat": 195400,
+    "fun_score": 52,
+    "useful_score": 14,
+    "total_score": 66,
+    "summary": "U23国足进入决赛，引发全民关注和助威热潮。球迷们通过社交媒体为年轻球员加油打气，体现了国人对青年足球的期待和支持，话题聚焦体育竞技和民族情感。",
+    "has_idea": true,
+    "product": {
+      "name": "热血应援团",
+      "features": [
+        "实时比赛互动弹幕墙，球迷同步为球队加油",
+        "AR虚拟助威道具（旗帜、横幅、烟火特效）",
+        "加油能量值统计，展示全网支持热度",
+        "球员数据卡收集和社交分享",
+        "预测比分赢取数字徽章和纪念品",
+        "同城球迷聚会地图和线下观赛组局"
+      ],
+      "target_users": [
+        "18-35岁足球爱好者",
+        "U23国足粉丝群体",
+        "喜欢体育社交的年轻用户",
+        "关注国足发展的爱国群体"
+      ],
+      "description": "为重大体育赛事打造的互动应援平台，让球迷通过创新方式参与助威，增强观赛仪式感和集体荣誉感。"
+    }
   },
   {
     "rank": 9,
-    "title": "2026米兰冬奥会",
-    "heat": 125135,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
+    "title": "朱易自由滑115.01分",
+    "heat": 194835,
+    "fun_score": 35,
+    "useful_score": 8,
+    "total_score": 43,
+    "summary": "花样滑冰运动员朱易在某场比赛中自由滑获得115.01分。作为曾代表中国参加北京冬奥会的归化运动员，其表现持续受到关注。该成绩可能是其职业生涯的重要突破或常规比赛表现。",
     "has_idea": false,
-    "product": null,
-    "reason": "Error code: 500 - {'error': {'message': 'InvokeModel: operation error Bedrock Runtime: InvokeModel, https response error StatusCode: 403, RequestID: 976e6e9f-1704-4520-a721-da4085315cc9, api error UnrecognizedClientException: The security token included in the request is invalid. (request id: 20260123105744554142968x7oMzLyV)', 'type': 'aws_invoke_error'}, 'id': 'gen-1769137064-8y66IBckaAb12z8vFcjigN', 'type': 'error'}"
+    "reason": "总分43分未达到60分阈值。该话题属于体育赛事成绩播报，虽有一定关注度，但缺乏足够的创新性和产品化空间。有趣度方面：仅限于特定体育爱好者群体，大众娱乐性和传播性有限，缺乏病毒式传播的独特角度。有用度方面：仅为信息通报，无明显实际问题解决场景。若要产品化需结合更具体的用户痛点（如滑冰培训、赛事数据分析工具等），但单一成绩话题本身不足以支撑完整产品概念。"
   },
   {
     "rank": 10,
-    "title": "宋威龙 忍住",
-    "heat": 116437,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
+    "title": "俄美乌三方谈判开始",
+    "heat": 193313,
+    "fun_score": 25,
+    "useful_score": 8,
+    "total_score": 33,
+    "summary": "俄美乌三方谈判启动，涉及俄乌冲突的潜在和平协商。此类国际政治话题具有重大新闻价值，但作为产品创意来源，其严肃性和敏感性限制了娱乐化和商业化的空间。",
     "has_idea": false,
     "product": null,
-    "reason": "Error code: 500 - {'error': {'message': 'InvokeModel: operation error Bedrock Runtime: InvokeModel, https response error StatusCode: 403, RequestID: 60cb648a-330b-4a04-8145-e45ebe318898, api error UnrecognizedClientException: The security token included in the request is invalid. (request id: 2026012310575084994888m4w7uz4E)', 'type': 'aws_invoke_error'}, 'id': 'gen-1769137070-1aykWiGNfa5EbsuQ3L2Amk', 'type': 'error'}"
+    "reason": "该话题为严肃的国际政治事件，存在以下限制：1）高度敏感性，不适合娱乐化或游戏化处理；2）受众主要关注新闻资讯而非互动体验，缺乏产品化的用户需求；3）话题的严肃性与商业产品的趣味性存在本质冲突；4）涉及地缘政治，产品开发面临政治风险和道德争议；5）缺乏可持续的用户参与场景。虽然具有新闻价值，但不具备转化为有趣产品创意的条件，总分33分未达到60分阈值。"
   },
   {
     "rank": 11,
-    "title": "猝死程序员底薪3千干7个人的活",
-    "heat": 116375,
+    "title": "苹果用户的天塌了",
+    "heat": 191477,
     "fun_score": 0,
     "useful_score": 0,
     "total_score": 0,
     "summary": "分析失败",
     "has_idea": false,
     "product": null,
-    "reason": "Error code: 500 - {'error': {'message': 'InvokeModel: operation error Bedrock Runtime: InvokeModel, https response error StatusCode: 403, RequestID: 0a056fd3-2fac-4833-8520-918702baea10, api error UnrecognizedClientException: The security token included in the request is invalid. (request id: 20260123105755916231161Fe6YcZ86)', 'type': 'aws_invoke_error'}, 'id': 'gen-1769137076-jxktMksUFI3UKUjzflg6HC', 'type': 'error'}"
+    "reason": "JSON解析失败"
   },
   {
     "rank": 12,
-    "title": "演员表为啥越来越看不懂了",
-    "heat": 115813,
+    "title": "海底捞 点炮制度",
+    "heat": 190391,
     "fun_score": 0,
     "useful_score": 0,
     "total_score": 0,
     "summary": "分析失败",
     "has_idea": false,
     "product": null,
-    "reason": "Error code: 500 - {'error': {'message': 'InvokeModel: operation error Bedrock Runtime: InvokeModel, https response error StatusCode: 403, RequestID: 8c1dbf01-a335-4977-8373-25ed4e450793, api error UnrecognizedClientException: The security token included in the request is invalid. (request id: 20260123105802181163968GOI3Zyl6)', 'type': 'aws_invoke_error'}, 'id': 'gen-1769137082-WuB0ESGxfe8WMHt886mXxj', 'type': 'error'}"
+    "reason": "JSON解析失败"
   },
   {
     "rank": 13,
-    "title": "金饰克价涨到1545元",
-    "heat": 115457,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 500 - {'error': {'message': 'InvokeModel: operation error Bedrock Runtime: InvokeModel, https response error StatusCode: 403, RequestID: ab42df88-efe7-4185-98a5-9f6c8865e50b, api error UnrecognizedClientException: The security token included in the request is invalid. (request id: 20260123105807639156106ytCpOX6f)', 'type': 'aws_invoke_error'}, 'id': 'gen-1769137087-1XN112oNVWp2jGtHUGSN77', 'type': 'error'}"
+    "title": "卢昱晓战国袍造型",
+    "heat": 189179,
+    "fun_score": 58,
+    "useful_score": 8,
+    "total_score": 66,
+    "summary": "卢昱晓身着战国风格服饰造型登上热搜，引发网友对古风造型的关注与讨论。这类古装造型话题具有一定视觉冲击力和传播性，但缺乏深度内容支撑。",
+    "has_idea": true,
+    "product": {
+      "name": "古装试衣间",
+      "features": [
+        "AI古装换装：上传照片一键生成战国、汉唐等朝代造型",
+        "历史服饰科普：解读各朝代服饰特征、文化内涵",
+        "造型社区分享：用户展示创作，投票评选最佳古风造型",
+        "虚拟试穿购买：关联汉服商家，支持AR试穿下单"
+      ],
+      "target_users": [
+        "古风爱好者",
+        "汉服爱好者",
+        "影视剧粉丝",
+        "年轻女性用户（18-30岁）"
+      ],
+      "description": "结合AI换装与历史文化科普的古风造型娱乐应用，让用户轻松体验穿越感，兼具娱乐性与文化传播价值。"
+    }
   },
   {
     "rank": 14,
-    "title": "一栗小莎子疑似患淋巴瘤",
-    "heat": 114954,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
+    "title": "U23",
+    "heat": 187781,
+    "fun_score": 25,
+    "useful_score": 8,
+    "total_score": 33,
+    "summary": "U23通常指23岁以下年龄段，常见于足球赛事（如U23亚洲杯）或人才政策。由于缺乏具体事件背景和实时信息，仅凭关键词无法判断具体热点内容，可能涉及体育赛事、青年政策或娱乐圈新人话题。",
     "has_idea": false,
-    "product": null,
-    "reason": "Error code: 500 - {'error': {'message': 'InvokeModel: operation error Bedrock Runtime: InvokeModel, https response error StatusCode: 403, RequestID: 5c49088c-a4e9-43ad-94f5-1c8a54c65b0d, api error UnrecognizedClientException: The security token included in the request is invalid. (request id: 20260123105813429037880ogKxnqIN)', 'type': 'aws_invoke_error'}, 'id': 'gen-1769137093-3eLtvrrDcI0WuRXMelXNF2', 'type': 'error'}"
+    "reason": "总分33分未达标。主要原因：1）关键词过于模糊，缺乏具体事件背景，无法挖掘独特创意点；2）U23概念常规且已有成熟应用场景（体育赛事、招聘政策等），新颖性不足；3）没有明确的痛点或娱乐爆点可转化为产品；4）需要更多上下文信息才能产生有价值的产品创意。建议补充具体事件详情后重新评估。"
   },
   {
     "rank": 15,
-    "title": "吃火锅偶遇贾玲张小斐",
-    "heat": 114634,
-    "fun_score": 0,
-    "useful_score": 0,
-    "total_score": 0,
-    "summary": "分析失败",
-    "has_idea": false,
-    "product": null,
-    "reason": "Error code: 500 - {'error': {'message': 'InvokeModel: operation error Bedrock Runtime: InvokeModel, https response error StatusCode: 403, RequestID: 334b6e48-7d13-4cb5-9dbb-db1d573bfc79, api error UnrecognizedClientException: The security token included in the request is invalid. (request id: 2026012310581981032578fs36PKD8)', 'type': 'aws_invoke_error'}, 'id': 'gen-1769137099-qjFjpUdXJdBdEmhiwN51oN', 'type': 'error'}"
+    "title": "刘润说终于有硅谷抄不来的AI了",
+    "heat": 185068,
+    "fun_score": 58,
+    "useful_score": 15,
+    "total_score": 73,
+    "summary": "商业顾问刘润评论某个中国AI应用/技术具有独特性，硅谷难以复制。话题聚焦中美AI差异化发展，引发关于本土AI创新优势的讨论，涉及市场特色、应用场景或商业模式的独特性。",
+    "has_idea": true,
+    "product": {
+      "name": "AI本土力",
+      "features": [
+        "中国特色AI应用案例库",
+        "中美AI差异化对比分析",
+        "本土AI创业方向推荐",
+        "区域化AI解决方案匹配",
+        "AI本土化改造工具包"
+      ],
+      "target_users": [
+        "AI创业者",
+        "科技投资人",
+        "商业分析师",
+        "技术研发团队",
+        "对中国AI市场感兴趣的从业者"
+      ],
+      "description": "聚焦中国AI独特优势的知识平台，帮助用户发现和利用硅谷难以复制的本土化AI机会。"
+    }
   }
 ]
