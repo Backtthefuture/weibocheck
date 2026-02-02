@@ -1,276 +1,182 @@
 [
   {
     "rank": 1,
-    "title": "爱泼斯坦受访时被问你是不是魔鬼",
-    "heat": 1132847,
-    "fun_score": 25,
-    "useful_score": 5,
-    "total_score": 30,
-    "summary": "该话题涉及争议人物爱泼斯坦的采访片段，因其敏感性和争议性在社交媒体引发关注。但话题本身缺乏积极的娱乐价值和创新性，更多是猎奇性传播。",
-    "has_idea": false,
-    "reason": "总分30分未达到60分阈值。该话题虽有一定传播性，但涉及敏感争议人物，缺乏正向的产品开发价值。话题本身不具备可持续的娱乐性或实用性，且基于此开发产品可能面临伦理争议和负面舆论风险。建议寻找更具正向价值、创新性和实用性的话题进行产品创意开发。"
-  },
-  {
-    "rank": 2,
-    "title": "白家犯罪集团4人被执行死刑",
-    "heat": 831897,
-    "fun_score": 5,
-    "useful_score": 8,
-    "total_score": 13,
-    "summary": "关于犯罪集团成员被执行死刑的严肃司法新闻。此类话题涉及刑事案件和法律程序，属于公共安全和法治领域的重大事件，但不适合作为产品创意开发的素材。",
-    "has_idea": false,
-    "reason": "该话题涉及死刑执行等严肃的司法内容，不具备产品创意开发的适宜性。原因：1）话题严肃敏感，缺乏娱乐性和创意空间（有趣度极低）；2）虽有一定的社会教育意义，但不适合商业化产品开发；3）任何基于此类话题的产品创意都可能引发道德争议和社会负面影响；4）总分13分远低于60分阈值。建议选择积极向上、具有创新性和社会正面价值的话题进行产品创意开发。"
-  },
-  {
-    "rank": 3,
-    "title": "2026新春走基层主题曲MV",
-    "heat": 648407,
-    "fun_score": 25,
-    "useful_score": 8,
-    "total_score": 33,
-    "summary": "2026年新春走基层活动的主题曲MV发布，属于官方媒体的常规宣传内容。话题传播主要依靠官方推动和政策关注，缺乏自发性娱乐传播点，创新性和趣味性有限。",
-    "has_idea": false,
-    "reason": "总分33分未达到60分阈值。该话题属于官方主旋律宣传内容，虽有一定的社会意义，但在产品创意维度上：1）有趣度低：缺乏新颖性和娱乐传播基因，用户参与欲望不强，难以形成自发传播；2）有用度低：作为宣传类内容，实用价值有限，无法解决用户实际问题或提供明确便利；3）商业化空间小：主旋律内容的产品化存在较大限制，目标用户群体不明确，难以开发出有市场竞争力的创新产品。建议寻找更具互动性、娱乐性或实用性的话题进行产品开发。"
-  },
-  {
-    "rank": 4,
-    "title": "张凌赫你代言新年我代言你",
-    "heat": 0,
-    "fun_score": 58,
-    "useful_score": 8,
-    "total_score": 66,
-    "summary": "粉丝应援明星张凌赫的创意话题，通过「你代言新年我代言你」的对偶句式表达支持。粉丝将明星商业代言与自己为明星应援进行类比，形成互动性强的娱乐话题，体现粉丝经济中的情感联结。",
-    "has_idea": true,
-    "product": {
-      "name": "星愿互动墙",
-      "features": [
-        "粉丝为明星定制应援海报生成器",
-        "「我代言你」创意文案智能生成",
-        "应援作品集体展示与投票互动",
-        "明星代言产品周边自动聚合展示",
-        "粉丝应援数据可视化看板"
-      ],
-      "target_users": [
-        "明星粉丝群体",
-        "饭圈运营者",
-        "娱乐营销从业者",
-        "品牌方粉丝运营团队"
-      ],
-      "description": "连接明星代言与粉丝应援的互动平台，让粉丝创意表达支持，同时聚合明星商业动态，打造双向情感联结的娱乐社区。"
-    }
-  },
-  {
-    "rank": 5,
-    "title": "朴彩英火星哥格莱美开场",
-    "heat": 403671,
-    "fun_score": 68,
-    "useful_score": 12,
-    "total_score": 80,
-    "summary": "韩国歌手朴彩英（ROSÉ）与火星哥（Bruno Mars）在格莱美颁奖典礼担任开场表演嘉宾，两人曾合作热门单曲《APT.》，此次同台引发全球粉丝关注和期待，成为音乐盛事焦点。",
-    "has_idea": true,
-    "product": {
-      "name": "星光舞台 - 音乐盛典AR体验",
-      "features": [
-        "AR虚拟格莱美现场：用户可通过手机进入虚拟颁奖典礼现场，360度观看表演",
-        "明星同框互动：AI生成用户与朴彩英、火星哥同台合影/合唱片段",
-        "舞台DIY创作：自定义舞台效果、灯光、服装，生成个人专属演出视频",
-        "社交分享挑战：模仿明星舞步、演唱挑战，生成排行榜和精彩集锦",
-        "音乐知识问答：格莱美历史、提名作品互动问答，赢取虚拟奖杯"
-      ],
-      "target_users": [
-        "15-35岁音乐爱好者和粉丝群体",
-        "社交媒体活跃用户",
-        "追星族和娱乐内容消费者",
-        "短视频创作者"
-      ],
-      "description": "结合AR技术打造沉浸式音乐盛典体验，让用户参与虚拟格莱美，与偶像互动创作，满足娱乐社交需求。"
-    }
-  },
-  {
-    "rank": 6,
-    "title": "格莱美直播",
-    "heat": 368798,
-    "fun_score": 62,
-    "useful_score": 14,
-    "total_score": 76,
-    "summary": "格莱美音乐颁奖典礼直播是全球最具影响力的音乐盛事之一，汇聚顶级音乐人现场表演和颁奖。话题涉及红毯造型、精彩表演、获奖名单、争议时刻等，具有强社交传播属性和娱乐价值。",
-    "has_idea": true,
-    "product": {
-      "name": "乐现场 - 音乐盛典AI观看助手",
-      "features": [
-        "实时AI解说：自动识别表演歌手、歌曲背景故事和音乐风格分析",
-        "多视角切换：提供舞台、后台、红毯等多机位同步直播",
-        "互动预测游戏：用户预测获奖者并与好友PK，赢取虚拟奖杯",
-        "精彩片段剪辑：AI自动生成个性化高光集锦和表情包",
-        "同步社交弹幕：聚合微博、Twitter等平台实时评论",
-        "明星造型AR试穿：扫描红毯造型即可虚拟试穿同款"
-      ],
-      "target_users": "音乐爱好者、追星族、年轻社交用户、时尚关注者",
-      "description": "为音乐颁奖典礼打造的沉浸式观看平台，结合AI解说、多视角、互动游戏和社交功能，让用户不错过任何精彩瞬间"
-    }
-  },
-  {
-    "rank": 7,
-    "title": "丫丫回国两年判若两熊",
-    "heat": 350979,
-    "fun_score": 68,
-    "useful_score": 12,
-    "total_score": 80,
-    "summary": "大熊猫丫丫在美国孟菲斯动物园生活20年后于2023年回国，当时因瘦弱、皮毛状态差引发关注。回国两年后在北京动物园精心照料下恢复健康，毛发浓密、体态丰盈，判若两熊，展现生命力。",
-    "has_idea": true,
-    "product": {
-      "name": "萌宠时光机",
-      "features": [
-        "AI对比照片生成：上传宠物不同时期照片，自动生成对比图集",
-        "健康成长档案：记录宠物体重、毛发、精神状态等变化曲线",
-        "养护知识库：根据宠物状态推送科学喂养建议",
-        "社区分享：展示宠物成长蜕变故事，获得点赞鼓励",
-        "纪念视频制作：一键生成宠物成长时光轴视频"
-      ],
-      "target_users": [
-        "宠物主人（猫狗等家养宠物饲养者）",
-        "动物园游客及熊猫爱好者",
-        "救助流浪动物的志愿者",
-        "宠物博主和内容创作者"
-      ],
-      "description": "记录和展示宠物成长蜕变的App，用对比照见证爱的力量，让每只毛孩子都能被看见变化。"
-    }
-  },
-  {
-    "rank": 8,
-    "title": "陈小春一家四口首登春晚",
-    "heat": 337466,
-    "fun_score": 58,
-    "useful_score": 12,
-    "total_score": 70,
-    "summary": "陈小春携妻子应采儿及两个儿子Jasper、Hoho首次以家庭形式登上春晚舞台，这是继陈小春个人多次登台后的家庭首秀，具有里程碑意义，结合其在《爸爸去哪儿》积累的家庭形象，话题性强。",
-    "has_idea": true,
-    "product": {
-      "name": "家庭春晚时光机",
-      "features": [
-        "AI生成家庭专属春晚节目视频（模拟春晚舞台效果）",
-        "家庭成员虚拟形象定制与节目编排",
-        "春节家庭趣味挑战任务包（歌舞、小品剧本模板）",
-        "家庭高光时刻短视频一键生成与分享",
-        "明星家庭互动玩法（AR合影、同款舞台特效）"
-      ],
-      "target_users": [
-        "有孩家庭用户（特别是80后、90后父母）",
-        "春节期间寻找家庭娱乐活动的用户",
-        "明星粉丝及综艺节目爱好者",
-        "追求仪式感的年轻家庭"
-      ],
-      "description": "让普通家庭体验明星家庭同款春晚舞台，用AI技术创造专属家庭春节娱乐内容，增强节日仪式感和家庭互动乐趣。"
-    }
-  },
-  {
-    "rank": 9,
-    "title": "黄金有望涨至6000美元",
-    "heat": 275405,
-    "fun_score": 52,
-    "useful_score": 16,
-    "total_score": 68,
-    "summary": "市场分析师预测黄金价格可能突破6000美元/盎司，创历史新高。该话题引发投资者广泛关注，讨论涉及地缘政治风险、通胀预期、避险需求等因素。热度反映了公众对财富保值和投资机会的高度关注。",
-    "has_idea": true,
-    "product": {
-      "name": "金价预言家",
-      "features": [
-        "实时黄金价格追踪与历史对比可视化",
-        "AI驱动的价格预测模型和趋势分析",
-        "个性化投资建议和风险提示",
-        "社区预测PK游戏，猜涨跌赢金币",
-        "黄金知识科普和投资策略学习",
-        "模拟交易功能，零风险练手"
-      ],
-      "target_users": [
-        "对黄金投资感兴趣的小白用户",
-        "关注财经热点的年轻投资者",
-        "希望学习贵金属投资的理财爱好者",
-        "喜欢预测类游戏的娱乐用户"
-      ],
-      "description": "集黄金行情追踪、AI预测、社区互动于一体的轻量化投资工具，用游戏化方式降低投资门槛，寓教于乐。"
-    }
-  },
-  {
-    "rank": 10,
-    "title": "不会化妆的建议反复观看",
-    "heat": 248386,
-    "fun_score": 52,
-    "useful_score": 18,
-    "total_score": 70,
-    "summary": "针对化妆新手的热门话题，强调通过反复观看教程来掌握化妆技巧。反映了大量用户在学习化妆过程中遇到的困难，以及对简单易懂、可重复学习内容的需求。具有较强的共鸣性和实用性。",
-    "has_idea": true,
-    "product": {
-      "name": "妆学堂·循环播",
-      "features": [
-        "AI识别用户化妆步骤，自动循环播放对应难点片段",
-        "分步骤慢动作教学视频库，支持无限重播",
-        "手势控制播放，解放双手边学边化",
-        "个人化妆进度追踪，标记已掌握和需重复的技巧",
-        "镜像模式，教程动作与实际操作方向一致"
-      ],
-      "target_users": [
-        "化妆新手和初学者",
-        "希望提升化妆技能的学生群体",
-        "需要系统学习化妆的职场新人"
-      ],
-      "description": "专为化妆新手设计的循环学习APP，通过智能重播和分步教学，让每个难点都能反复练习直到掌握。"
-    }
-  },
-  {
-    "rank": 11,
-    "title": "小米高管疑似爆料YU9",
-    "heat": 247888,
+    "title": "茉莉奶白战报",
+    "heat": 1590405,
     "fun_score": 0,
     "useful_score": 0,
     "total_score": 0,
     "summary": "分析失败",
     "has_idea": false,
     "product": null,
-    "reason": "JSON解析失败"
+    "reason": "Error code: 401 - {'error': {'type': 'authentication_error', 'code': '401', 'message': 'Incorrect API key provided. Please visit https://console.pipellm.ai/account/api-keys to find your API key.'}}"
+  },
+  {
+    "rank": 2,
+    "title": "微博之夜阵容夯爆了",
+    "heat": 911236,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 401 - {'error': {'type': 'authentication_error', 'code': '401', 'message': 'Incorrect API key provided. Please visit https://console.pipellm.ai/account/api-keys to find your API key.'}}"
+  },
+  {
+    "rank": 3,
+    "title": "2026春运奔赴团圆路",
+    "heat": 708857,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 401 - {'error': {'type': 'authentication_error', 'code': '401', 'message': 'Incorrect API key provided. Please visit https://console.pipellm.ai/account/api-keys to find your API key.'}}"
+  },
+  {
+    "rank": 4,
+    "title": "孩子1.7万私卖金镯现值3万左右",
+    "heat": 601662,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 401 - {'error': {'type': 'authentication_error', 'code': '401', 'message': 'Incorrect API key provided. Please visit https://console.pipellm.ai/account/api-keys to find your API key.'}}"
+  },
+  {
+    "rank": 5,
+    "title": "王鹤棣把外套给黄灿灿挡风",
+    "heat": 471994,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 401 - {'error': {'type': 'authentication_error', 'code': '401', 'message': 'Incorrect API key provided. Please visit https://console.pipellm.ai/account/api-keys to find your API key.'}}"
+  },
+  {
+    "rank": 6,
+    "title": "袁惟仁去世",
+    "heat": 450599,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 401 - {'error': {'type': 'authentication_error', 'code': '401', 'message': 'Incorrect API key provided. Please visit https://console.pipellm.ai/account/api-keys to find your API key.'}}"
+  },
+  {
+    "rank": 7,
+    "title": "宝格丽跃马迎春",
+    "heat": 0,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 401 - {'error': {'type': 'authentication_error', 'code': '401', 'message': 'Incorrect API key provided. Please visit https://console.pipellm.ai/account/api-keys to find your API key.'}}"
+  },
+  {
+    "rank": 8,
+    "title": "16号集体洗头",
+    "heat": 427656,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 401 - {'error': {'type': 'authentication_error', 'code': '401', 'message': 'Incorrect API key provided. Please visit https://console.pipellm.ai/account/api-keys to find your API key.'}}"
+  },
+  {
+    "rank": 9,
+    "title": "退休一共要缴纳多少年社保",
+    "heat": 421571,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 401 - {'error': {'type': 'authentication_error', 'code': '401', 'message': 'Incorrect API key provided. Please visit https://console.pipellm.ai/account/api-keys to find your API key.'}}"
+  },
+  {
+    "rank": 10,
+    "title": "BLG对战WBG",
+    "heat": 414442,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 401 - {'error': {'type': 'authentication_error', 'code': '401', 'message': 'Incorrect API key provided. Please visit https://console.pipellm.ai/account/api-keys to find your API key.'}}"
+  },
+  {
+    "rank": 11,
+    "title": "新疆打馕小伙因酷似泽连斯基走红",
+    "heat": 406616,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
+    "has_idea": false,
+    "product": null,
+    "reason": "Error code: 401 - {'error': {'type': 'authentication_error', 'code': '401', 'message': 'Incorrect API key provided. Please visit https://console.pipellm.ai/account/api-keys to find your API key.'}}"
   },
   {
     "rank": 12,
-    "title": "爱泼斯坦 吃人",
-    "heat": 247416,
+    "title": "两男孩玩火烧死萨摩耶狗主人发声",
+    "heat": 399626,
     "fun_score": 0,
     "useful_score": 0,
     "total_score": 0,
-    "summary": "该话题涉及未经证实的阴谋论内容，将真实历史人物与极端不实信息结合，属于不良信息传播。不应基于此类内容进行产品开发或创意设计。",
+    "summary": "分析失败",
     "has_idea": false,
-    "reason": "该话题涉及严重的不实信息和阴谋论内容，不符合基本的事实依据和社会伦理标准。基于此类话题开发产品创意存在以下问题：1) 传播未经证实的极端言论；2) 可能造成不良社会影响；3) 违背负责任的产品设计原则；4) 缺乏任何实际价值或建设性意义。建议关注真实、正向、有社会价值的话题进行产品创意开发。"
+    "product": null,
+    "reason": "Error code: 401 - {'error': {'type': 'authentication_error', 'code': '401', 'message': 'Incorrect API key provided. Please visit https://console.pipellm.ai/account/api-keys to find your API key.'}}"
   },
   {
     "rank": 13,
-    "title": "萝莉岛",
-    "heat": 246121,
+    "title": "爱泼斯坦 吃人",
+    "heat": 384059,
     "fun_score": 0,
     "useful_score": 0,
     "total_score": 0,
-    "summary": "该话题涉及敏感和不适当内容，与真实世界的严重犯罪事件相关。不适合作为产品创意开发的基础，应避免任何形式的商业化或娱乐化处理。",
+    "summary": "分析失败",
     "has_idea": false,
-    "reason": "此话题涉及敏感和不当内容，与严重的违法犯罪行为相关。从伦理、法律和社会责任角度考虑，不应基于此类话题开发任何产品或创意。任何试图将此类严肃社会问题娱乐化或商业化的行为都是不恰当的，可能造成负面社会影响并引发道德争议。建议选择积极、健康、有建设性的话题进行产品创意开发。"
+    "product": null,
+    "reason": "Error code: 401 - {'error': {'type': 'authentication_error', 'code': '401', 'message': 'Incorrect API key provided. Please visit https://console.pipellm.ai/account/api-keys to find your API key.'}}"
   },
   {
     "rank": 14,
-    "title": "2026春运开启",
-    "heat": 245082,
-    "fun_score": 35,
-    "useful_score": 18,
-    "total_score": 53,
-    "summary": "2026年春运（春节前后人口大规模流动期）开始，这是中国年度最大规模的人口迁徙现象。虽是常规话题，但涉及数亿人的出行需求，具有周期性热度和实际意义。",
+    "title": "说好不熬 萨摩耶狗主人",
+    "heat": 378283,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
     "has_idea": false,
-    "reason": "总分53分未达标。有趣度偏低（35/80）：春运是年度常规事件，缺乏新颖性和创意惊喜，虽有一定传播性但娱乐性不足，难以创造独特体验。有用度较高（18/20）：确实解决实际出行问题，有明确实用价值。但整体而言，这是一个实用性强但趣味性不足的传统话题，不适合作为「有趣产品」的创意来源，更适合开发功能型工具类产品。"
+    "product": null,
+    "reason": "Error code: 401 - {'error': {'type': 'authentication_error', 'code': '401', 'message': 'Incorrect API key provided. Please visit https://console.pipellm.ai/account/api-keys to find your API key.'}}"
   },
   {
     "rank": 15,
-    "title": "爱泼斯坦",
-    "heat": 244174,
-    "fun_score": 15,
-    "useful_score": 5,
-    "total_score": 20,
-    "summary": "爱泼斯坦是涉及严重犯罪的敏感人物，相关话题通常涉及司法案件、阴谋论或纪录片讨论。此类话题具有争议性和严肃性，不适合作为娱乐化或商业化的产品创意来源。",
+    "title": "萨摩耶被两娃烧死主人回应质疑",
+    "heat": 369530,
+    "fun_score": 0,
+    "useful_score": 0,
+    "total_score": 0,
+    "summary": "分析失败",
     "has_idea": false,
-    "reason": "该话题涉及犯罪、性侵等敏感内容，总分仅20分远低于60分阈值。从产品伦理角度考虑：1) 缺乏娱乐性和正向传播价值；2) 可能引发道德争议和法律风险；3) 不适合开发面向大众的商业产品；4) 可能对受害者造成二次伤害。建议避免基于此类敏感社会事件开发产品创意。"
+    "product": null,
+    "reason": "Error code: 401 - {'error': {'type': 'authentication_error', 'code': '401', 'message': 'Incorrect API key provided. Please visit https://console.pipellm.ai/account/api-keys to find your API key.'}}"
   }
 ]
